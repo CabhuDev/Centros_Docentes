@@ -1,0 +1,29 @@
+# Backend dependencies
+fastapi==0.88.0          # Framework web para construir la API
+uvicorn==0.20.0          # Servidor ASGI para ejecutar FastAPI
+
+# CSV Management
+tablib==3.3.0            # Utilidades para trabajar con archivos CSV (opcional)
+pandas==1.5.2            # Para manejo y análisis de datos CSV de manera eficiente
+
+# API de Google
+googlemaps==4.5.3        # Cliente de Python para la API de Google Maps
+requests==2.31.0         # Realizar peticiones HTTP (para interactuar con APIs externas)
+
+# Seguridad
+dotenv==1.0.0            # Manejo de variables de entorno (.env) para claves sensibles
+
+# Validación y manejo de datos
+pydantic==1.10.2         # Validación de datos en FastAPI
+
+# Otros
+jinja2==3.1.2            # Motor de plantillas, en caso de que necesites renderizar HTML
+
+# Desarrollo
+autoreload==0.1.0        # Para recargar automáticamente cambios durante el desarrollo
+pytest==7.2.1            # Para pruebas automatizadas
+debugpy==1.6.6           # Herramienta de depuración para Python
+
+# Frontend dependencies
+html5lib==1.1            # Procesamiento de HTML5
+cssutils==2.5.1          # Manejo de archivos CSS

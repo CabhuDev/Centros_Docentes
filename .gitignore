@@ -1,0 +1,13 @@
+# Crear el archivo .gitignore para evitar subir archivos sensibles
+cat <<EOL > .gitignore
+.env
+__pycache__/
+.vscode/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+.env/
+*.env
+EOL

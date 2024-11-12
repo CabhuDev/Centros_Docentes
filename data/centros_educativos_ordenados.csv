@@ -1,0 +1,533 @@
+﻿Código Centro,Tipo Centro,Nombre Centro,Público/Privado,Dirección,Código Postal,Municipio,Provincia,Distancia (Km),Duración,Idiomas
+18700232,Instituto de Educación Secundaria,Alba Longa,Público,"C/ San Miguel, s/n",18100,Armilla,Granada,"1,2 km",4 min,BIL ING
+18002243,Instituto de Educación Secundaria,Federico García Lorca,Público,"C/ San Ramón, 10",18194,Churriana de la Vega,Granada,"1,8 km",5 min,BIL ING
+18000787,Instituto de Educación Secundaria,Luis Bueno Crespo,Público,"Avda. de Las Palmeras, s/n",18100,Armilla,Granada,"3,0 km",7 min,BIL ING
+18009195,Instituto de Educación Secundaria,Mariana Pineda,Público,"C/ Beethoven, 4",18006,Granada,Granada,"2,7 km",7 min,BIL ING
+18010185,Instituto de Educación Secundaria,Alhambra,Público,"C/ Beethoven, 2",18006,Granada,Granada,"2,9 km",7 min,BIL ING
+18009249,Instituto de Educación Secundaria,Severo Ochoa,Público,"Avda. de las Alpujarras, 31",18015,Granada,Granada,"5,9 km",8 min,BIL ING
+18010446,Instituto de Educación Secundaria,Generalife,Público,"C/ Huerta del Rasillo, s/n",18003,Granada,Granada,"4,9 km",8 min,PLURIL ING/FRA + PLURIL FRA/ING
+18700013,Instituto de Educación Secundaria,Fray Luis de Granada,Público,"C/ Huerta del Rasillo, s/n",18004,Granada,Granada,"4,9 km",8 min,BIL ING
+18700542,Instituto de Educación Secundaria,Veleta,Público,"C/ Alhendin, 7",18007,Granada,Granada,"3,8 km",9 min,BIL ING
+18004276,Instituto de Educación Secundaria,Ángel Ganivet,Público,"C/ Santa Bárbara, 15",18001,Granada,Granada,"5,6 km",11 min,PLURIL FRA/ING
+18004291,Instituto de Educación Secundaria,Padre Manjón,Público,"C/ Gonzalo Gallas, s/n",18003,Granada,Granada,"5,7 km",11 min,BIL ING
+18700037,Instituto de Educación Secundaria,Pedro Soto de Rojas,Público,"C/ Torre de los Picos, 2",18008,Granada,Granada,"5,1 km",11 min,BIL ING
+18700098,Instituto de Educación Secundaria,Zaidín-Vergeles,Público,"C/ Primavera, 26-28",18008,Granada,Granada,"4,6 km",11 min,BIL ING
+18004264,Instituto de Educación Secundaria,Padre Suárez,Público,"C/ Gran Vía de Colón, 61",18001,Granada,Granada,"5,9 km",12 min,BIL ING
+18009201,Instituto de Educación Secundaria,Los Neveros,Público,"C/ Alhucema, 3",18198,Huétor Vega,Granada,"6,7 km",12 min,BIL ING
+18700311,Instituto de Educación Secundaria,La Madraza,Público,"Plaza Escritor Fernández Castro, 2",18014,Granada,Granada,"8,8 km",12 min,BIL ING
+18700657,Instituto de Educación Secundaria,Manuel de Falla,Público,"Cmo. Nuevo, s/n",18200,Maracena,Granada,"10,3 km",12 min,BIL ING
+18003004,Instituto de Educación Secundaria,Arabuleila,Público,"C/ Maestro Diego Montes, 2",18195,Cúllar Vega,Granada,"6,1 km",13 min,BIL ING
+18004458,Instituto de Educación Secundaria,Virgen de las Nieves,Público,"Avda. de Andalucía, 38",18014,Granada,Granada,"7,6 km",13 min,BIL ING
+18700293,Instituto de Educación Secundaria,Francisco Ayala,Público,"Avda. Francisco Ayala, s/n",18014,Granada,Granada,"9,0 km",13 min,BIL ING
+18700441,Instituto de Educación Secundaria,Miguel de Cervantes,Público,"C/  Camino Real de los Neveros, 1",18008,Granada,Granada,"5,3 km",13 min,BIL ING
+18000842,Instituto de Educación Secundaria,Alhendín,Público,"C/ Real, s/n",18620,Alhendín,Granada,"9,4 km",14 min,BIL ING
+18700475,Instituto de Educación Secundaria,Montes Orientales,Público,"Ctra. de la Sierra, 15",18550,Iznalloz,Granada,"8,5 km",14 min,BIL ING
+18700803,Instituto de Educación Secundaria,Blas Infante,Público,"C/ Río Genil, s/n",18151,Ogíjares,Granada,"6,8 km",14 min,BIL ING
+18004148,Instituto de Educación Secundaria,Escultor Sánchez Mesa,Público,"C/ Severo Ochoa, s/n",18630,Villa de Otura,Granada,"10,1 km",15 min,BIL ING
+18009389,Instituto de Educación Secundaria,Albayzín,Público,"C/ Camino de San Antonio, s/n",18011,Granada,Granada,"7,5 km",16 min,PLURIL ING/ALE
+18009444,Instituto de Educación Secundaria,Hispanidad,Público,"C/ Celestino Mutis, 1",18320,Santa Fe,Granada,"15,3 km",16 min,BIL ING
+18700244,Instituto de Educación Secundaria,Trevenque,Público,"C/ Álvarez Quintero, s/n",18140,La Zubia,Granada,"8,7 km",16 min,BIL ING
+18009407,Instituto de Educación Secundaria,Vega de Atarfe,Público,"Avda. Diputación, s/n",18230,Atarfe,Granada,"14,3 km",17 min,BIL ING
+18000039,Instituto de Educación Secundaria,Aricel,Público,"C/ Aricel, s/n",18220,Albolote,Granada,"17,7 km",18 min,PLURIL FRA/ING
+18000854,Instituto de Educación Secundaria,Los Cahorros,Público,"C/ de los Neveros, s/n",18198,Monachil,Granada,"10,2 km",18 min,BIL ING
+18001081,Instituto de Educación Secundaria,Laurel de la Reina,Público,"C/ Everest, s/n",18140,La Zubia,Granada,"8,8 km",18 min,BIL ING
+18000908,Instituto de Educación Secundaria,Iliberis,Público,"Avda. Andalucía, 84",18230,Atarfe,Granada,"18,1 km",19 min,BIL ING
+18000738,Instituto de Educación Secundaria,Al-Fakar,Público,"Avda. García Lorca, s/n",18170,Alfacar,Granada,"20,4 km",20 min,BIL ING
+18008257,Instituto de Educación Secundaria,Jiménez de Quesada,Público,"Cmo. de Santa Teresa, 1",18320,Santa Fe,Granada,"16,8 km",20 min,BIL ING
+18700360,Instituto de Educación Secundaria,Arjé,Público,"Avda. del Parque, s/n",18330,Chauchina,Granada,"21,7 km",20 min,BIL ING
+18009778,Instituto de Educación Secundaria,Alonso Cano,Público,"Avda. Blas Infante, 28",18650,Dúrcal,Granada,"30,0 km",25 min,BIL ING
+18700611,Instituto de Educación Secundaria,Fernando de los Ríos,Público,"C/ C/ Pilar López, s/n",18340,Fuente Vaqueros,Granada,"24,5 km",25 min,BIL ING
+18005220,Instituto de Educación Secundaria,Manuel Cañadas,Público,"C/ Pintor Velázquez, s/n",18370,Moraleda de Zafayona,Granada,"40,2 km",33 min,BIL ING
+18700301,Instituto de Educación Secundaria,Américo Castro,Público,"C/ Eras Bajas, s/n",18360,Huétor Tájar,Granada,"47,9 km",37 min,BIL ING
+18700773,Instituto de Educación Secundaria,Diego de Siloé,Público,"Avda.  de Antonio Tastet, 1",18260,Íllora,Granada,"42,3 km",37 min,BIL ING
+18700414,Instituto de Educación Secundaria,Alfaguara,Público,"C/ Hoyo de Narváez, s/n",18300,Loja,Granada,"57,5 km",43 min,PLURIL ING/FRA
+18700700,Instituto de Educación Secundaria,Ribera del Fardes,Público,"C/ Cerro de los Almendrillos, s/n",18519,Purullena,Granada,"62,0 km",43 min,BIL ING
+18000519,Instituto de Educación Secundaria,Nazarí,Público,"Avda. de Nicaragua, s/n",18680,Salobreña,Granada,"64,8 km",45 min,PLURIL ING/FRA
+18005980,Instituto de Educación Secundaria,Virgen de la Caridad,Público,"C/ Cervantes, s/n",18300,Loja,Granada,"58,4 km",45 min,BIL ING
+18009961,Instituto de Educación Secundaria,Mediterráneo,Público,"Avda. de Motril, s/n",18680,Salobreña,Granada,"64,9 km",45 min,
+18004801,Instituto de Educación Secundaria,Padre Poveda,Público,"Avda. Mariana Pineda, s/n",18500,Guadix,Granada,"67,2 km",46 min,BIL ING
+18009213,Instituto de Educación Secundaria,Acci,Público,"Avda. Buenos Aires, 68",18500,Guadix,Granada,"68,3 km",46 min,BIL ING
+18007046,Instituto de Educación Secundaria,Francisco Javier de Burgos,Público,"Avda. González Carrascosa, s/n",18600,Motril,Granada,"64,8 km",47 min,BIL ING
+18007058,Instituto de Educación Secundaria,Julio Rodríguez,Público,"C/ Fernández Molina, s/n",18600,Motril,Granada,"64,9 km",47 min,BIL ING
+18004793,Instituto de Educación Secundaria,Pedro Antonio de Alarcón,Público,"C/ Venus de Paulenca, s/n",18500,Guadix,Granada,"67,9 km",48 min,BIL ING
+18700426,Instituto de Educación Secundaria,Francisco Giner de los Ríos,Público,"C/ La matraquilla, 5",18600,Motril,Granada,"67,0 km",48 min,BIL ING
+23700542,Instituto de Educación Secundaria,Antonio de Mendoza,Público,"Psje. del Coto, 16",23680,Alcalá la Real,Jaén,"58,9 km",49 min,BIL ING
+18007022,Instituto de Educación Secundaria,La Zafra,Público,"C/ Menéndez y Pelayo, 40",18600,Motril,Granada,"66,3 km",51 min,PLURIL ING/FRA
+23000106,Instituto de Educación Secundaria,Alfonso XI,Público,"C/ Maestro Pascual Baca, 2",23680,Alcalá la Real,Jaén,"59,4 km",51 min,
+18700761,Instituto de Educación Secundaria,Alpujarra,Público,"Avda. Lora Tamayo, s/n",18400,Órgiva,Granada,"60,3 km",52 min,BIL ING
+18700499,Instituto de Educación Secundaria,Puerta del Mar,Público,"C/ Hurtado de Mendoza, s/n",18690,Almuñécar,Granada,"76,3 km",55 min,BIL ING
+18700463,Instituto de Educación Secundaria,Al-Ándalus,Público,"C/ Federico García Lorca, 3",18690,Almuñécar,Granada,"76,2 km",56 min,BIL ING
+18700554,Instituto de Educación Secundaria,Villanueva del Mar,Público,"Paseo Andrés Segovia, 29",18697,Almuñécar,Granada,"81,5 km",56 min,BIL ING
+18700451,Instituto de Educación Secundaria,Alhama,Público,"Ctra. de Loja, s/n",18120,Alhama de Granada,Granada,"64,1 km",57 min,BIL ING
+23700839,Instituto de Educación Secundaria,Santa Teresa,Público,"C/ Doctor Bueno Fajardo, s/n",23009,Jaén,Jaén,"95,1 km",1h 1 min,BIL ING
+23002474,Instituto de Educación Secundaria,Jabalcuz,Público,"C/ Santa María del Valle, s/n",23009,Jaén,Jaén,"94,8 km",1h 2 min,BIL ING
+23004926,Instituto de Educación Secundaria,Sierra Mágina,Público,"C/ Albert Einstein, 52",23560,Huelma,Jaén,"76,9 km",1h 2 min,BIL ING
+23700271,Instituto de Educación Secundaria,El Valle,Público,"Ctra. de Madrid, 2",23009,Jaén,Jaén,"95,5 km",1h 2 min,BIL ING
+23005906,Instituto de Educación Secundaria,Fuente de la Peña,Público,"Cmo. Fuente de la Peña, s/n",23002,Jaén,Jaén,"96,6 km",1h 3 min,BIL ING
+29007214,Instituto de Educación Secundaria,Sierra Almijara,Público,"Avda. de Pescia, s/n",29780,Nerja,Málaga,"91,8 km",1h 3 min,BIL ING
+23005074,Instituto de Educación Secundaria,Peña del Águila,Público,"Ctra. de Pegalajar, s/n",23100,Mancha Real,Jaén,"92,8 km",1h 4 min,BIL ING
+23002401,Instituto de Educación Secundaria,Virgen del Carmen,Público,"Paseo de la Estación, 44",23008,Jaén,Jaén,"96,7 km",1h 5 min,PLURIL FRA/ING
+23002413,Instituto de Educación Secundaria,Santa Catalina de Alejandría,Público,"Avda. Ruiz Jiménez, 16",23008,Jaén,Jaén,"96,2 km",1h 5 min,BIL ING
+23005153,Instituto de Educación Secundaria,Sierra Mágina,Público,"C/ Tetuán, s/n",23100,Mancha Real,Jaén,"93,1 km",1h 5 min,PLURIL FRA/ING
+4002532,Instituto de Educación Secundaria,Sierra Nevada,Público,"Avda. Juan Aparicio, 3",4500,Fiñana,Almería,106 km,1h 7 min,BIL ING
+23005062,Instituto de Educación Secundaria,Auringis,Público,"C/ Cerro de los Lirios, 1",23005,Jaén,Jaén,106 km,1h 7 min,BIL ING
+23000246,Instituto de Educación Secundaria,Salvador Serrano,Público,"Parque Parque de la Fuensanta, 2",23660,Alcaudete,Jaén,"82,5 km",1h 8 min,BIL ING
+29009958,Instituto de Educación Secundaria,Jorge Guillén,Público,"C/ Isaac Albéniz, s/n",29770,Torrox,Málaga,101 km,1h 8 min,BIL ALE
+29701155,Instituto de Educación Secundaria,Alfaguar,Público,"Urb. Santa Rosa, s/n",29793,Torrox,Málaga,101 km,1h 8 min,BIL ING
+23002449,Instituto de Educación Secundaria,Las Fuentezuelas,Público,"Avda. de Arjona, 5",23006,Jaén,Jaén,106 km,1h 9 min,BIL ING
+23700827,Instituto de Educación Secundaria,Az-Zait,Público,"Avda. Arjona, 3",23006,Jaén,Jaén,"97,9 km",1h 9 min,BIL ING
+14700584,Instituto de Educación Secundaria,Mirador del Genil,Público,"C/ Puente de Hierro, 1",14970,Iznájar,Córdoba,"94,1 km",1h 10 min,BIL ING
+23000180,Instituto de Educación Secundaria,Torre Olvidada,Público,C/ Almería,23640,Torredelcampo,Jaén,111 km,1h 10 min,BIL ING
+29010857,Instituto de Educación Secundaria,Pintor José María Fernández,Público,"Ctra. Carretera de Málaga, 8",29200,Antequera,Málaga,103 km,1h 10 min,BIL ING
+14005936,Instituto de Educación Secundaria,Álvarez Cubero,Público,"Avda. Niceto Alcalá-Zamora, s/n",14800,Priego de Córdoba,Córdoba,"85,3 km",1h 12 min,PLURIL ING/FRA
+23003934,Instituto de Educación Secundaria,Miguel Sánchez López,Público,"Avda. de la Constitución, s/n",23640,Torredelcampo,Jaén,112 km,1h 12 min,BIL ING
+23700815,Instituto de Educación Secundaria,Llano de la Viña,Público,"C/ Donantes de Sangre, s/n",23630,Villatorres,Jaén,113 km,1h 12 min,BIL ING
+4000110,Instituto de Educación Secundaria,Abdera,Público,"C/ Marisma, 6",4770,Adra,Almería,109 km,1h 14 min,BIL ING
+4000134,Instituto de Educación Secundaria,Gaviota,Público,"C/ Estero, 4",4770,Adra,Almería,109 km,1h 14 min,BIL ING
+11001890,Instituto de Educación Secundaria,Fernando Savater,Público,"C/ Parque Torcal de Antequera, s/n. Bda. Nazaret",11406,Jerez de la Frontera,Cádiz,106 km,1h 14 min,BIL ING
+23003983,Instituto de Educación Secundaria,Santo Reino,Público,"Avda. del Parque, 67",23650,Torredonjimeno,Jaén,116 km,1h 14 min,BIL ING
+29001145,Instituto de Educación Secundaria,Pedro Espinosa,Público,"C/ Carrera, 12",29200,Antequera,Málaga,114 km,1h 14 min,BIL ING
+29011552,Instituto de Educación Secundaria,María Zambrano,Público,"C/ Cipriano Maldonado Jiménez, s/n",29740,Vélez-Málaga,Málaga,114 km,1h 14 min,BIL ING
+14005912,Instituto de Educación Secundaria,Fernando III El Santo,Público,"Avda. de España, 83",14800,Priego de Córdoba,Córdoba,"86,7 km",1h 15 min,BIL ING
+14700377,Instituto de Educación Secundaria,Carmen Pantión,Público,"C/ Haza Luna, s/n",14800,Priego de Córdoba,Córdoba,"86,9 km",1h 15 min,PLURIL ING/FRA
+18700712,Instituto de Educación Secundaria,Al-Zujáyr,Público,"C/ Federico García Lorca, s/n",18811,Zújar,Granada,114 km,1h 15 min,BIL ING
+23700301,Instituto de Educación Secundaria,María Cabeza Arellano Martínez,Público,"Avda. Andalucía, 5",23620,Mengíbar,Jaén,117 km,1h 15 min,BIL ING
+23700335,Instituto de Educación Secundaria,Acebuche,Público,"C/ Antonio Machado, 4",23650,Torredonjimeno,Jaén,116 km,1h 15 min,BIL ING
+29700345,Instituto de Educación Secundaria,Miraya del Mar,Público,Urb. Jardines del Rocío,29740,Vélez-Málaga,Málaga,114 km,1h 15 min,BIL ING
+29701295,Instituto de Educación Secundaria,Salvador Rueda,Público,"C/ Hermanos López Campos, 14",29700,Vélez-Málaga,Málaga,114 km,1h 15 min,BIL ING
+18001123,Instituto de Educación Secundaria,Pedro Jiménez Montoya,Público,"C/ Isaac Peral, 2",18800,Baza,Granada,113 km,1h 16 min,BIL ING
+18001147,Instituto de Educación Secundaria,José de Mora,Público,"C/ Blas Infante, 9",18800,Baza,Granada,113 km,1h 16 min,BIL ING
+29008671,Instituto de Educación Secundaria,Reyes Católicos,Público,"Avda. Vivar Téllez, s/n",29700,Vélez-Málaga,Málaga,115 km,1h 16 min,BIL ING
+18700517,Instituto de Educación Secundaria,El Fuerte,Público,"C/ Rambla, s/n",18810,Caniles,Granada,122 km,1h 17 min,BIL ING
+23700220,Instituto de Educación Secundaria,La Pandera,Público,"Avda. Juana I, 29",23160,Los Villares,Jaén,107 km,1h 17 min,BIL ING
+29008681,Instituto de Educación Secundaria,Juan de la Cierva,Público,"C/ Doctor Fernando Vivar, 2",29700,Vélez-Málaga,Málaga,115 km,1h 17 min,BIL ING
+29700424,Instituto de Educación Secundaria,Almenara,Público,"C/ Francisco Labao Gámez, 1",29700,Vélez-Málaga,Málaga,116 km,1h 17 min,BIL ING
+23003132,Instituto de Educación Secundaria,San Felipe Neri,Público,"C/ Río Jandula, 1",23600,Martos,Jaén,124 km,1h 18 min,BIL ING
+18000601,Instituto de Educación Secundaria,Antigua Sexi,Público,"C/ Lo Colorado, s/n",18690,Almuñécar,Granada,"86,2 km",1h 19 min,BIL ING
+23000143,Instituto de Educación Secundaria,Hermanos Medina Rivilla,Público,"C/ Historiador Rus de la Puerta, s/n",23710,Bailén,Jaén,128 km,1h 19 min,BIL ING
+23003119,Instituto de Educación Secundaria,Fernando III,Público,"Parque Manuel Carrasco, s/n",23600,Martos,Jaén,122 km,1h 19 min,BIL ING
+41701389,Instituto de Educación Secundaria,La Roda,Público,"C/ Manuel Siurot, s/n",41590,La Roda de Andalucía,Sevilla,125 km,1h 19 min,BIL ING
+23004240,Instituto de Educación Secundaria,Juan López Morillas,Público,"C/ Andalucía, 9",23500,Jódar,Jaén,101 km,1h 21 min,BIL ING
+23700840,Instituto de Educación Secundaria,María Bellido,Público,"C/ Juan Salcedo Guillén, s/n",23710,Bailén,Jaén,129 km,1h 21 min,BIL ING
+29017839,Instituto de Educación Secundaria,Margarita Salas,Público,"C/ Mediodía, 4",29738,Rincón de la Victoria,Málaga,127 km,1h 21 min,BIL ING
+23700621,Instituto de Educación Secundaria,Accabe,Público,"C/ Alejandro Lucini, 18",23537,Bedmar y Garcíez,Jaén,103 km,1h 22 min,BIL ING
+29002733,Instituto de Educación Secundaria,Puerta de la Axarquía,Público,"Paseo  de Filipinas, 2",29720,Rincón de la Victoria,Málaga,130 km,1h 23 min,BIL ING
+4700481,Instituto de Educación Secundaria,Pablo Ruiz Picasso,Público,"C/ Loma de la Mezquita, 170",4700,El Ejido,Almería,129 km,1h 24 min,BIL ING
+29700059,Instituto de Educación Secundaria,Bezmiliana,Público,"Urb. Gran Sol, s/n",29730,Rincón de la Victoria,Málaga,130 km,1h 24 min,BIL ING
+29700369,Instituto de Educación Secundaria,Ben Al Jatib,Público,"C/ Sorolla, 38",29720,Rincón de la Victoria,Málaga,132 km,1h 24 min,BIL ING
+29701088,Instituto de Educación Secundaria,Jardín de Málaga,Público,"C/ Marqués de Mantua, 11",29014,Málaga,Málaga,126 km,1h 24 min,BIL ING
+4002313,Instituto de Educación Secundaria,Santo Domingo,Público,"Avda. Oasis, 135",4700,El Ejido,Almería,132 km,1h 25 min,BIL ING
+23000817,Instituto de Educación Secundaria,Santísima Trinidad,Público,"C/ Juan de Ávila, 2",23440,Baeza,Jaén,138 km,1h 25 min,BIL ING
+23000830,Instituto de Educación Secundaria,Andrés de Vandelvira,Público,"C/ Garnica, 3",23440,Baeza,Jaén,138 km,1h 25 min,BIL ING
+23002851,Instituto de Educación Secundaria,Reyes de España,Público,"Avda. San Cristóbal, s/n",23700,Linares,Jaén,135 km,1h 25 min,BIL ING
+29005965,Instituto de Educación Secundaria,Sierra Bermeja,Público,"Avda. Ramón y Cajal, 113",29014,Málaga,Málaga,125 km,1h 25 min,BIL ING
+29009934,Instituto de Educación Secundaria,Salvador Rueda,Público,"C/ Corregidor Antonio de Bobadilla, 13",29006,Málaga,Málaga,132 km,1h 25 min,BIL ING
+29016264,Instituto de Educación Secundaria,Teatinos,Público,"C/ Giordano Bruno, s/n",29010,Málaga,Málaga,132 km,1h 25 min,BIL ING
+29701064,Instituto de Educación Secundaria,Torre Atalaya,Público,"Avda. Navarro Ledesma, 170",29010,Málaga,Málaga,128 km,1h 25 min,BIL ING
+4700533,Instituto de Educación Secundaria,Mar Azul,Público,"Ctra. de  Guardias Viejas, s/n",4712,El Ejido,Almería,127 km,1h 26 min,BIL ING
+29000062,Instituto de Educación Secundaria,Capellanía,Público,"C/ Zarzuela, s/n",29130,Alhaurín de la Torre,Málaga,136 km,1h 26 min,BIL ING
+29001868,Instituto de Educación Secundaria,Camilo José Cela,Público,"Avda. Familia de Pascual Duarte, 4",29320,Campillos,Málaga,127 km,1h 26 min,BIL ING
+29700242,Instituto de Educación Secundaria,Núm. 1. Universidad Laboral,Público,"C/ Julio Verne, 6.",29080,Málaga,Málaga,131 km,1h 26 min,BIL ING
+29700400,Instituto de Educación Secundaria,Puerto de la Torre,Público,"C/ Cristo de los Milagros, 25",29190,Málaga,Málaga,127 km,1h 26 min,BIL ING
+29701076,Instituto de Educación Secundaria,Juan Ramón Jiménez,Público,"C/ Fernández Fermina, 17",29006,Málaga,Málaga,133 km,1h 26 min,BIL ING
+4004826,Instituto de Educación Secundaria,Murgi,Público,"Avda. Príncipes de España, 17",4700,El Ejido,Almería,130 km,1h 27 min,BIL ING
+4700272,Instituto de Educación Secundaria,Fuente Nueva,Público,"Avda. Príncipes de España, 115",4700,El Ejido,Almería,130 km,1h 27 min,PLURIL ING/FRA
+23700888,Instituto de Educación Secundaria,Santa Engracia,Público,"C/ Santa Engracia, 17",23700,Linares,Jaén,136 km,1h 27 min,BIL ING
+29005916,Instituto de Educación Secundaria,La Rosaleda,Público,"Avda. Luis Buñuel, 8",29011,Málaga,Málaga,127 km,1h 27 min,
+29007147,Instituto de Educación Secundaria,Carlos Álvarez,Público,"C/ Benito Juárez, 1",29140,Málaga,Málaga,136 km,1h 27 min,BIL ING
+29700412,Instituto de Educación Secundaria,Portada Alta,Público,"C/ Portada Alta, s/n",29007,Málaga,Málaga,131 km,1h 27 min,BIL ING
+4001825,Instituto de Educación Secundaria,Sierra de Gádor,Público,"C/ Ramón y Cajal, 1",4760,Berja,Almería,125 km,1h 28 min,BIL ING
+14000483,Instituto de Educación Secundaria,Luis Carrillo de Sotomayor,Público,"Avda. San Carlos de Chile, s/n",14850,Baena,Córdoba,109 km,1h 28 min,BIL ING
+14005882,Instituto de Educación Secundaria,Sierra de Aras,Público,"C/ María Zambrano, s/n",14900,Lucena,Córdoba,142 km,1h 28 min,BIL ING
+18700682,Instituto de Educación Secundaria,Sulayr,Público,"C/ Los albergues, 6",18414,La Taha,Granada,"72,9 km",1h 28 min,BIL ING
+23000131,Instituto de Educación Secundaria,Sierra Morena,Público,"C/ Blas Infante, s/n",23740,Andújar,Jaén,127 km,1h 28 min,BIL ING
+23700347,Instituto de Educación Secundaria,Sierra Sur,Público,"Paseo del Chorrillo, s/n",23150,Valdepeñas de Jaén,Jaén,"90,9 km",1h 28 min,BIL ING
+23700803,Instituto de Educación Secundaria,Juan de Barrionuevo Moya,Público,"C/ San Cristóbal, 2",23730,Villanueva de la Reina,Jaén,127 km,1h 28 min,BIL ING
+29005928,Instituto de Educación Secundaria,Nuestra Señora de la Victoria,Público,"Paseo Martiricos, 11",29009,Málaga,Málaga,127 km,1h 28 min,BIL ING
+29700060,Instituto de Educación Secundaria,Mayorazgo,Público,"C/ Las Espuelas, 12",29016,Málaga,Málaga,130 km,1h 28 min,BIL ING
+29700761,Instituto de Educación Secundaria,Alta Axarquía,Público,"C/ Alta Axarquía, 1",29710,Periana,Málaga,"92,5 km",1h 28 min,BIL ING
+29701258,Instituto de Educación Secundaria,Rafael Pérez Estrada,Público,"C/ Alozaina, 39",29006,Málaga,Málaga,133 km,1h 28 min,BIL ING
+41008970,Instituto de Educación Secundaria,Aguilar y Cano,Público,"C/ Camino del Cahiz, 36",41560,Estepa,Sevilla,143 km,1h 28 min,PLURIL FRA/ING
+4700685,Instituto de Educación Secundaria,Santa María del Águila,Público,"C/ Lisboa, s/n",4710,El Ejido,Almería,135 km,1h 29 min,BIL ING
+23004264,Instituto de Educación Secundaria,Los Cerros,Público,"C/ Cronista Juan de la Torre, s/n",23400,Úbeda,Jaén,146 km,1h 29 min,BIL ING
+29008802,Instituto de Educación Secundaria,Galileo,Público,"C/ Amadeo Vives, 10",29130,Alhaurín de la Torre,Málaga,137 km,1h 29 min,BIL ING
+29010870,Instituto de Educación Secundaria,Mare Nostrum,Público,"C/ Villanueva de Algaidas, 9",29004,Málaga,Málaga,136 km,1h 29 min,BIL FRA
+29700114,Instituto de Educación Secundaria,Gerald Brenan,Público,"C/ Isaac Peral, s/n",29130,Alhaurín de la Torre,Málaga,137 km,1h 29 min,BIL ING
+29701003,Instituto de Educación Secundaria,Jarifa,Público,"C/ Abencerraje, 7",29570,Cártama,Málaga,140 km,1h 29 min,BIL ING
+29701234,Instituto de Educación Secundaria,José María Torrijos,Público,"Psje. Alcalde Joaquín Alonso, 3",29003,Málaga,Málaga,135 km,1h 29 min,BIL ING
+41002013,Instituto de Educación Secundaria,Ostippo,Público,"Ctra. de Becerrero, 3",41560,Estepa,Sevilla,142 km,1h 29 min,BIL ING
+41701729,Instituto de Educación Secundaria,Carlos Cano,Público,"C/ Santi Páez, 24",41566,Pedrera,Sevilla,137 km,1h 29 min,BIL ING
+4006689,Instituto de Educación Secundaria,Luz del Mar,Público,"Avda. de la Luz, s/n",4700,El Ejido,Almería,137 km,1h 30 min,BIL ING
+14000331,Instituto de Educación Secundaria,Clara Campoamor,Público,"C/ Jaén, 6",14900,Lucena,Córdoba,143 km,1h 30 min,BIL ING
+14700602,Instituto de Educación Secundaria,Albenzaide,Público,"C/ Vereda del Calvario, s/n",14880,Luque,Córdoba,105 km,1h 30 min,BIL ING
+23002841,Instituto de Educación Secundaria,Huarte de San Juan,Público,"C/ Rector Muñoz Fernández, s/n",23700,Linares,Jaén,141 km,1h 30 min,BIL ING
+29005977,Instituto de Educación Secundaria,Cánovas del Castillo,Público,"C/ San Millán, s/n",29013,Málaga,Málaga,128 km,1h 30 min,PLURIL FRA/ING
+29700096,Instituto de Educación Secundaria,Litoral,Público,"Avda. Los Guindos, 46",29004,Málaga,Málaga,137 km,1h 30 min,BIL ING
+29700503,Instituto de Educación Secundaria,Fernando de los Ríos,Público,"C/ Ntra. Sra. de las Candelas, 15",29004,Málaga,Málaga,137 km,1h 30 min,BIL ING
+29700621,Instituto de Educación Secundaria,Cerro del Viento,Público,"Avda. del Cerro del Viento, 11",29630,Benalmádena,Málaga,144 km,1h 30 min,BIL ING
+29701210,Instituto de Educación Secundaria,Huerta Alta,Público,"Avda. Las Malagueñas, s/n. Urb. Huerta Alta",29130,Alhaurín de la Torre,Málaga,137 km,1h 30 min,BIL ING
+29701350,Instituto de Educación Secundaria,Christine Picasso,Público,"C/ Rachmaninov, 4",29002,Málaga,Málaga,134 km,1h 30 min,BIL FRA
+41701501,Instituto de Educación Secundaria,Atalaya,Público,"C/ Haza Guillermo, s/n",41580,Casariche,Sevilla,140 km,1h 30 min,BIL ING
+14004580,Instituto de Educación Secundaria,Marqués de Comares,Público,"C/ Juego de Pelota, 54",14900,Lucena,Córdoba,139 km,1h 31 min,BIL ING
+29009260,Instituto de Educación Secundaria,Emilio Prados,Público,"C/ Luis Barahona de Soto, 16",29004,Málaga,Málaga,137 km,1h 31 min,BIL ING
+29009922,Instituto de Educación Secundaria,El Palo,Público,"Cmo. Viejo de Vélez, s/n",29018,Málaga,Málaga,138 km,1h 31 min,BIL ING
+29011539,Instituto de Educación Secundaria,Huelin,Público,"C/ Tomás Echeverria, 2",29002,Málaga,Málaga,134 km,1h 31 min,BIL ING
+29701052,Instituto de Educación Secundaria,Sagrado Corazón,Público,"C/ Cardenal Herrera Oria, 28",29007,Málaga,Málaga,131 km,1h 31 min,BIL ING
+29701349,Instituto de Educación Secundaria,Playamar,Público,Ronda Alta Benyamina,29620,Torremolinos,Málaga,141 km,1h 31 min,BIL ING
+14007404,Instituto de Educación Secundaria,Juan de Aréjula,Público,"C/ Montemayor, 11",14900,Lucena,Córdoba,139 km,1h 32 min,BIL ING
+18700359,Instituto de Educación Secundaria,Alcrebite,Público,"Plaza Carlos Cano, s/n",18800,Baza,Granada,110 km,1h 32 min,BIL ING
+23005372,Instituto de Educación Secundaria,Guadalentín,Público,"Ctra. El Fontanar, s/n",23485,Pozo Alcón,Jaén,129 km,1h 32 min,BIL ING
+29006568,Instituto de Educación Secundaria,Los Manantiales,Público,"C/ Periodista Federico Alba, 21",29620,Torremolinos,Málaga,141 km,1h 32 min,BIL ING
+29012064,Instituto de Educación Secundaria,Arroyo de la Miel,Público,"Avda. Inmaculada Concepción, s/n",29631,Benalmádena,Málaga,145 km,1h 32 min,
+29700631,Instituto de Educación Secundaria,Valle del Azahar,Público,"C/ Pitágoras,2",29580,Cártama,Málaga,141 km,1h 32 min,BIL ING
+14700420,Instituto de Educación Secundaria,Miguel de Cervantes,Público,"C/ Blas Infante, s/n",14900,Lucena,Córdoba,140 km,1h 33 min,BIL ING
+23700785,Instituto de Educación Secundaria,Ruradia,Público,"C/ Eras del Moral, s/n",23430,Rus,Jaén,148 km,1h 33 min,BIL ING
+29006945,Instituto de Educación Secundaria,Benalmádena,Público,"Avda. Cibeles, 4",29630,Benalmádena,Málaga,145 km,1h 33 min,BIL ING
+29009892,Instituto de Educación Secundaria,Al-Baytar,Público,"Avda. Erasa, s/n. Urb. Béjar",29639,Benalmádena,Málaga,145 km,1h 33 min,BIL ING
+41701031,Instituto de Educación Secundaria,Herrera,Público,"C/ Granada, s/n",41567,Herrera,Sevilla,149 km,1h 33 min,BIL ING
+4700429,Instituto de Educación Secundaria,Manuel de Góngora,Público,"Avda. Acacias, 9",4200,Tabernas,Almería,155 km,1h 34 min,BIL ING
+4700624,Instituto de Educación Secundaria,Villa de Vícar,Público,"Avda. Pintor Cristóbal González Soto, 2",4738,Vícar,Almería,145 km,1h 34 min,BIL ING
+23005049,Instituto de Educación Secundaria,Pablo de Olavide,Público,"C/ Buenavista, 66",23200,La Carolina,Jaén,155 km,1h 34 min,BIL ING
+4700144,Instituto de Educación Secundaria,La Puebla,Público,"Plaza Platón, 5",4738,Vícar,Almería,146 km,1h 35 min,PLURIL FRA/ING
+23006029,Instituto de Educación Secundaria,Francisco de los Cobos,Público,"Plaza Primero de Mayo, 9",23400,Úbeda,Jaén,148 km,1h 35 min,BIL ING
+23700554,Instituto de Educación Secundaria,Juan Pérez Creus,Público,"C/ Alfredo Calderón, s/n",23200,La Carolina,Jaén,156 km,1h 35 min,BIL ING
+29008061,Instituto de Educación Secundaria,Concha Méndez Cuesta,Público,"C/ Giordano Bruno, s/n",29620,Torremolinos,Málaga,143 km,1h 35 min,BIL ING
+23000556,Instituto de Educación Secundaria,Nuestra Señora de la Cabeza,Público,"C/ Argimiro Rodríguez Álvarez, s/n",23740,Andújar,Jaén,138 km,1h 36 min,BIL ING
+4700636,Instituto de Educación Secundaria,Torreserena,Público,"Avda. 11 de marzo, s/n",4240,Viator,Almería,166 km,1h 37 min,BIL ING
+4700673,Instituto de Educación Secundaria,Carlos III,Público,"Ctra. de los Motores, s/n. Bda. La Gloria",4720,Roquetas de Mar,Almería,153 km,1h 37 min,BIL ING
+14000835,Instituto de Educación Secundaria,Felipe Solís Villechenous,Público,"Avda. Fuente del Río, 15",14940,Cabra,Córdoba,153 km,1h 37 min,BIL ING
+23005694,Instituto de Educación Secundaria,Jándula,Público,"Ctra. de los Villares, s/n",23740,Andújar,Jaén,161 km,1h 37 min,BIL ING
+4006045,Instituto de Educación Secundaria,Mar Mediterráneo,Público,"C/ Parcela 4-Sector 4º, junto a Palacios de Congresos",4720,Roquetas de Mar,Almería,153 km,1h 38 min,BIL ING
+4700363,Instituto de Educación Secundaria,La Mojonera,Público,"Cmo. Cuesta Blanca, s/n",4745,La Mojonera,Almería,144 km,1h 38 min,BIL ING
+29007329,Instituto de Educación Secundaria,Vega de Mijas,Público,"C/ Don Antonio García Moreno, 5",29651,Mijas,Málaga,156 km,1h 38 min,BIL ING
+29011311,Instituto de Educación Secundaria,Eduardo Janeiro,Público,"C/ Enebro, s/n",29640,Fuengirola,Málaga,155 km,1h 38 min,BIL ING
+29700023,Instituto de Educación Secundaria,Sierra de Mijas,Público,"C/ Río las Pasadas, 1",29649,Mijas,Málaga,156 km,1h 38 min,BIL ING
+29700709,Instituto de Educación Secundaria,Las Lagunas,Público,"Cmo. del Albero, 18",29650,Mijas,Málaga,156 km,1h 38 min,BIL ING
+14000501,Instituto de Educación Secundaria,Dionisio Alcalá Galiano,Público,"C/ Escultor Antonio Maiz Castro, s/n",14940,Cabra,Córdoba,154 km,1h 39 min,BIL ING
+14700663,Instituto de Educación Secundaria,Fuente Álamo,Público,"Ctra. del Palomar, s/n",14500,Puente Genil,Córdoba,150 km,1h 39 min,BIL ING
+29701416,Instituto de Educación Secundaria,Las Salinas,Público,"C/ Domingo Ortega, 24",29640,Fuengirola,Málaga,155 km,1h 39 min,BIL ING
+4700260,Instituto de Educación Secundaria,Aguadulce,Público,"C/ Alhambra, 11",4720,Roquetas de Mar,Almería,154 km,1h 40 min,BIL ING
+4700570,Instituto de Educación Secundaria,Carmen de Burgos,Público,"C/ Maestra Doña Paquita, 2",4230,Huércal de Almería,Almería,169 km,1h 40 min,BIL ING
+14000847,Instituto de Educación Secundaria,Aguilar y Eslava,Público,"Plaza de Aguilar y Eslava, s/n",14940,Cabra,Córdoba,155 km,1h 40 min,BIL ING
+14004841,Instituto de Educación Secundaria,Inca Garcilaso,Público,"Avda. de la Constitución, 14",14550,Montilla,Córdoba,162 km,1h 40 min,BIL ING
+14700717,Instituto de Educación Secundaria,Ategua,Público,"C/ Isabel García Regio, 2",14840,Castro del Río,Córdoba,128 km,1h 40 min,BIL ING
+29009910,Instituto de Educación Secundaria,Santiago Ramón y Cajal,Público,"C/ Doctor García Verdugo, 1",29640,Fuengirola,Málaga,158 km,1h 40 min,BIL ING
+14002029,Instituto de Educación Secundaria,Ipagro,Público,"C/ Padre Oblatos, s/n",14920,Aguilar de la Frontera,Córdoba,159 km,1h 41 min,BIL ING
+14006217,Instituto de Educación Secundaria,Manuel Reina,Público,"C/ Cristóbal del Castillo, 2",14500,Puente Genil,Córdoba,150 km,1h 41 min,BIL ING
+14700298,Instituto de Educación Secundaria,Nuevas Poblaciones,Público,"C/ La Salud, 6",14100,La Carlota,Córdoba,124 km,1h 41 min,BIL ING
+29700928,Instituto de Educación Secundaria,Los Montecillos,Público,"Ctra. de Mijas Km 1,5",29100,Coín,Málaga,156 km,1h 41 min,BIL ING
+4004966,Instituto de Educación Secundaria,Sabinar,Público,"C/ Pío Baroja, s/n",4740,Roquetas de Mar,Almería,151 km,1h 42 min,BIL ING
+23700748,Instituto de Educación Secundaria,Gamonares,Público,"C/ Martín de Valcárcel, s/n",23780,Lopera,Jaén,152 km,1h 42 min,BIL ING
+4000341,Instituto de Educación Secundaria,Las Marinas,Público,"C/ Coimbra, 1",4740,Roquetas de Mar,Almería,149 km,1h 43 min,BIL ING
+4004620,Instituto de Educación Secundaria,Al-Ándalus,Público,"Paseo de la Caridad, 125. Finca Santa Isabel",4008,Almería,Almería,165 km,1h 43 min,BIL ING
+4004814,Instituto de Educación Secundaria,El Argar,Público,"Paseo de la Caridad, 125",4008,Almería,Almería,165 km,1h 43 min,BIL ALE
+4700016,Instituto de Educación Secundaria,Turaniana,Público,"Avda. de los Estudiantes, 86",4740,Roquetas de Mar,Almería,152 km,1h 43 min,BIL ING
+4700648,Instituto de Educación Secundaria,Algazul,Público,"C/ Santa Isabel, 29",4740,Roquetas de Mar,Almería,152 km,1h 43 min,BIL ING
+14000021,Instituto de Educación Secundaria,Profesor Andrés Bojollo,Público,"Avda. de Europa, s/n",14500,Puente Genil,Córdoba,160 km,1h 43 min,BIL ING
+14700742,Instituto de Educación Secundaria,Pay Arias,Público,"C/ Virgen del Pilar, s/n",14830,Espejo,Córdoba,134 km,1h 43 min,BIL ING
+41003066,Instituto de Educación Secundaria,Francisco Rodríguez Marín,Público,"Paseo San Arcadio, s/n",41640,Osuna,Sevilla,168 km,1h 43 min,BIL ING
+41009123,Instituto de Educación Secundaria,Sierra Sur,Público,"C/ San José de Calasanz, s/n",41640,Osuna,Sevilla,168 km,1h 43 min,BIL ING
+18005141,Instituto de Educación Secundaria,La Sagra,Público,"Avda. Granada, s/n",18830,Huéscar,Granada,159 km,1h 44 min,BIL ING
+18008464,Instituto de Educación Secundaria,Ulyssea,Público,"C/ Casillas, s/n",18480,Ugíjar,Granada,107 km,1h 44 min,BIL ING
+23700359,Instituto de Educación Secundaria,Abula,Público,"C/ Molera, s/n",23220,Vilches,Jaén,159 km,1h 44 min,BIL ING
+29700692,Instituto de Educación Secundaria,Fuente Lucena,Público,"C/ Fuente Lucena, 15",29120,Alhaurín el Grande,Málaga,158 km,1h 44 min,BIL ING
+4001187,Instituto de Educación Secundaria,Los Ángeles,Público,"C/ Maestría, 2",4008,Almería,Almería,175 km,1h 45 min,BIL ING
+18005153,Instituto de Educación Secundaria,Alquivira,Público,"C/ San Juan Bosco, 1",18830,Huéscar,Granada,159 km,1h 45 min,BIL ING
+29004109,Instituto de Educación Secundaria,Torre Almenara,Público,"Urb. El Limonar, s/n",29649,Mijas,Málaga,165 km,1h 45 min,BIL ING
+29701431,Instituto de Educación Secundaria,La Cala de Mijas,Público,"C/ Llano de la Cala, s/n",29649,Mijas,Málaga,164 km,1h 45 min,BIL ING
+4001163,Instituto de Educación Secundaria,Alhadra,Público,"C/ de los Colegios, 7",4009,Almería,Almería,175 km,1h 47 min,BIL ING
+4700508,Instituto de Educación Secundaria,José Marín,Público,"C/ Dolores R. Sopeña, 1",4820,Vélez-Rubio,Almería,178 km,1h 47 min,BIL ING
+4700582,Instituto de Educación Secundaria,Emilio Manzano,Público,"Ctra. Laujar Orgiva, km.1",4470,Laujar de Andarax,Almería,150 km,1h 47 min,BIL ING
+4000699,Instituto de Educación Secundaria,Alhamilla,Público,"Avda. Federico García Lorca, 130",4005,Almería,Almería,167 km,1h 48 min,BIL ING
+4001151,Instituto de Educación Secundaria,Celia Viñas,Público,"C/ Javier Sanz, 15",4004,Almería,Almería,166 km,1h 48 min,BIL ING
+4005958,Instituto de Educación Secundaria,Albaida,Público,"Ctra. de Níjar, s/n. Bda. Los Molinos",4009,Almería,Almería,173 km,1h 48 min,BIL ING
+4700107,Instituto de Educación Secundaria,Sol de Portocarrero,Público,"Ctra. de Níjar, Km 7",4120,Almería,Almería,173 km,1h 48 min,BIL ING
+4700156,Instituto de Educación Secundaria,Bahía de Almería,Público,"C/ Luis Vives, s/n",4006,Almería,Almería,173 km,1h 48 min,BIL ING
+4700521,Instituto de Educación Secundaria,El Alquián,Público,"Ctra. de Níjar, s/n",4130,Almería,Almería,173 km,1h 48 min,BIL ING
+14006345,Instituto de Educación Secundaria,Profesor Tierno Galván,Público,"C/ Calvario, s/n",14540,La Rambla,Córdoba,175 km,1h 48 min,BIL ING
+14700365,Instituto de Educación Secundaria,Miguel Crespo,Público,"Ronda de las Erillas, s/n",14520,Fernán Núñez,Córdoba,180 km,1h 48 min,BIL ING
+4001141,Instituto de Educación Secundaria,Nicolás Salmerón Alonso,Público,"C/ Celia Viñas, s/n",4007,Almería,Almería,166 km,1h 49 min,PLURIL ING/FRA
+14700444,Instituto de Educación Secundaria,Nuestra Señora de la Estrella,Público,"Avda. de la Estrella, s/n",14640,Villa del Río,Córdoba,162 km,1h 49 min,BIL ING
+14700614,Instituto de Educación Secundaria,Ulia Fidentia,Público,"Bda. María Auxiliadora, s/n",14530,Montemayor,Córdoba,174 km,1h 49 min,PLURIL FRA/ING
+4004802,Instituto de Educación Secundaria,Alborán - Manuel Cáliz,Público,"Avda. Padre Méndez, 30",4006,Almería,Almería,176 km,1h 50 min,PLURIL FRA/ING
+4009393,Instituto de Educación Secundaria,Retamar,Público,"Paseo del Toyo, s/n",4131,Almería,Almería,179 km,1h 50 min,BIL ING
+4700442,Instituto de Educación Secundaria,Azcona,Público,"C/ Policia José Rueda Alcaraz, 1",4006,Almería,Almería,176 km,1h 50 min,BIL ING
+4700454,Instituto de Educación Secundaria,Maestro Padilla,Público,"Avda. del Mediterráneo, 53",4007,Almería,Almería,167 km,1h 50 min,BIL ING
+14700781,Instituto de Educación Secundaria,Maestro Eloy Vaquero,Público,"Ctra. de Santaella, s/n. Zona Polideportivo",14548,Montalbán de Córdoba,Córdoba,178 km,1h 50 min,BIL ING
+29000694,Instituto de Educación Secundaria,Las Flores,Público,"Avda. de la Constitución, s/n. Puente de la Cabeza",29500,Álora,Málaga,162 km,1h 50 min,BIL ING
+29011229,Instituto de Educación Secundaria,Valle del Sol,Público,"Avda. Pablo Ruiz Picasso, s/n",29500,Álora,Málaga,162 km,1h 51 min,BIL ING
+41701365,Instituto de Educación Secundaria,Federico García Lorca,Público,"C/ Castelar, s/n",41540,La Puebla de Cazalla,Sevilla,185 km,1h 52 min,BIL ING
+4005533,Instituto de Educación Secundaria,Valle de Andarax,Público,"C/ Olivares, s/n",4450,Canjáyar,Almería,140 km,1h 53 min,BIL ING
+4700612,Instituto de Educación Secundaria,Entresierras,Público,"Cmo. Verde, s/n",4870,Purchena,Almería,162 km,1h 53 min,BIL ING
+23700578,Instituto de Educación Secundaria,San Juan Bautista,Público,"Avda. del Olivo, 6",23240,Navas de San Juan,Jaén,175 km,1h 54 min,BIL ING
+29000335,Instituto de Educación Secundaria,Bahía de Marbella,Público,"C/ Calvario, 5",29600,Marbella,Málaga,182 km,1h 54 min,BIL ING
+14004981,Instituto de Educación Secundaria,Santos Isasa,Público,"Plaza Plano de la feria, s/n",14600,Montoro,Córdoba,170 km,1h 55 min,BIL ING
+23700499,Instituto de Educación Secundaria,Nieves López Pastor,Público,"C/ Maestro Ricardo López, 17",23330,Villanueva del Arzobispo,Jaén,187 km,1h 55 min,PLURIL ING/FRA
+29006854,Instituto de Educación Secundaria,Sierra Blanca,Público,"Avda. Doctor Maiz Viñals, 24",29600,Marbella,Málaga,182 km,1h 55 min,BIL ING
+41700907,Instituto de Educación Secundaria,Castillo de Luna,Público,"C/ San Ignacio, s/n",41540,La Puebla de Cazalla,Sevilla,187 km,1h 55 min,BIL ING
+23700682,Instituto de Educación Secundaria,Picos del Guadiana,Público,"C/ Pablo Picasso, 7",23487,Huesa,Jaén,147 km,1h 56 min,BIL ING
+23700487,Instituto de Educación Secundaria,Almicerán,Público,"C/ Camilo José Cela, s/n",23460,Peal de Becerro,Jaén,179 km,1h 57 min,BIL ING
+29006830,Instituto de Educación Secundaria,Guadalpín,Público,"Blvar. Principe Alfonso de Hohenlohe, s/n",29602,Marbella,Málaga,185 km,1h 57 min,BIL ING
+4003135,Instituto de Educación Secundaria,Juan Rubio Ortiz,Público,"Avda. de Andalucía, 10",4867,Macael,Almería,167 km,1h 58 min,
+4700132,Instituto de Educación Secundaria,Campos de Níjar,Público,"C/ Camino del Calvo, 43",4110,Níjar,Almería,201 km,1h 58 min,BIL ING
+11006671,Instituto de Educación Secundaria,Zaframagón,Público,"Avda. Manuel de Falla, s/n",11690,Olvera,Cádiz,168 km,1h 58 min,BIL ING
+29700126,Instituto de Educación Secundaria,Río Verde,Público,"C/ Notario Luis Oliver,18",29600,Marbella,Málaga,184 km,1h 59 min,BIL FRA
+14002972,Instituto de Educación Secundaria,Séneca,Público,"Avda. Menéndez Pidal, s/n",14004,Córdoba,Córdoba,201 km,2h 0 min,BIL ALE
+14700535,Instituto de Educación Secundaria,Santa Rosa de Lima,Público,"C/ Ciudad de Carmona, s/n",14009,Córdoba,Córdoba,201 km,2h 1 min,BIL ING
+29004158,Instituto de Educación Secundaria,Nueva Andalucía,Público,"C/ Quevedo, s/n",29660,Marbella,Málaga,192 km,2h 1 min,BIL ING
+29010444,Instituto de Educación Secundaria,Vega de Mar,Público,"Finca La Granja, s/n. Zona Deportiva",29670,Marbella,Málaga,193 km,2h 2 min,BIL ING
+14000707,Instituto de Educación Secundaria,El Tablero,Público,"Avda. de la Arruzafilla, s/n",14011,Córdoba,Córdoba,205 km,2h 3 min,BIL ING
+14002996,Instituto de Educación Secundaria,López Neyra,Público,"Avda. del Mediterráneo, s/n",14011,Córdoba,Córdoba,204 km,2h 3 min,BIL ING
+14700067,Instituto de Educación Secundaria,Alhaken II,Público,"C/ Manuel Fuentes Bocanegra, s/n",14005,Córdoba,Córdoba,202 km,2h 3 min,BIL FRA
+23700426,Instituto de Educación Secundaria,Cañada de las Fuentes,Público,"Ctra. de Huesa, 25",23480,Quesada,Jaén,145 km,2h 3 min,BIL ING
+41002694,Instituto de Educación Secundaria,Isidro de Arcenegui y Carmona,Público,"C/ Cerro la Leva, s/n",41620,Marchena,Sevilla,204 km,2h 3 min,BIL ING
+11701051,Instituto de Educación Secundaria,Villa de Setenil,Público,"C/ María Zambrano, 2",11692,Setenil de las Bodegas,Cádiz,168 km,2h 4 min,BIL ING
+14007180,Instituto de Educación Secundaria,Blas Infante,Público,"Plaza Platero Pedro de Bares, 31 A",14007,Córdoba,Córdoba,206 km,2h 4 min,PLURIL FRA/ING
+14700146,Instituto de Educación Secundaria,Fidiana,Público,"C/ Saturno, s/n",14014,Córdoba,Córdoba,204 km,2h 4 min,BIL ING
+14700161,Instituto de Educación Secundaria,Medina Azahara,Público,Avda. Gran Vía Parque,14005,Córdoba,Córdoba,203 km,2h 4 min,BIL ING
+14700559,Instituto de Educación Secundaria,Santa Catalina de Siena,Público,"C/ Fernando Camacho, 44",14014,Córdoba,Córdoba,204 km,2h 4 min,BIL ING
+41701559,Instituto de Educación Secundaria,Europa,Público,"Avda. Santísima Trinidad, s/n",41600,Arahal,Sevilla,207 km,2h 4 min,BIL ING
+14000321,Instituto de Educación Secundaria,El Sauce,Público,"C/ Punta del Sauce, 4",14100,La Carlota,Córdoba,206 km,2h 5 min,BIL ING
+14007945,Instituto de Educación Secundaria,Trassierra,Público,"C/ San Hermenegildo, s/n",14011,Córdoba,Córdoba,205 km,2h 5 min,BIL ING
+14700079,Instituto de Educación Secundaria,Gran Capitán,Público,"C/ Arcos de la Frontera, s/n",14014,Córdoba,Córdoba,206 km,2h 5 min,
+23001111,Instituto de Educación Secundaria,Castillo de la Yedra,Público,"C/ Cruz de Orea, 57",23470,Cazorla,Jaén,189 km,2h 5 min,BIL ING
+41000557,Instituto de Educación Secundaria,Al-Ándalus,Público,"C/ Dalia, s/n",41600,Arahal,Sevilla,207 km,2h 5 min,BIL ING
+14700286,Instituto de Educación Secundaria,Ángel de Saavedra,Público,"Avda. Virgen de las Angustias, s/n",14006,Córdoba,Córdoba,209 km,2h 6 min,BIL ING
+14700730,Instituto de Educación Secundaria,Grupo Cántico,Público,"C/ Virgen de las Angustias, s/n",14006,Córdoba,Córdoba,209 km,2h 6 min,BIL ING
+23700566,Instituto de Educación Secundaria,Virgen del Collado,Público,"Avda. de Andalucía, 6",23250,Santisteban del Puerto,Jaén,188 km,2h 6 min,BIL ING
+29004080,Instituto de Educación Secundaria,Profesor Tomás Hormigo,Público,"C/ Lomas del Retamar, s/n",29688,Estepona,Málaga,199 km,2h 6 min,BIL ING
+41008507,Instituto de Educación Secundaria,López de Arenas,Público,"C/ Sevilla, s/n",41620,Marchena,Sevilla,205 km,2h 6 min,BIL ING
+14002923,Instituto de Educación Secundaria,Maimónides,Público,"C/ Alfonso XIII, 4",14001,Córdoba,Córdoba,204 km,2h 8 min,PLURIL ING/FRA
+14700481,Instituto de Educación Secundaria,Puente de Alcolea,Público,"C/ Capricho, s/n",14610,Córdoba,Córdoba,213 km,2h 8 min,BIL ING
+14002960,Instituto de Educación Secundaria,Luis de Góngora,Público,"C/ Diego de León, 2",14002,Córdoba,Córdoba,205 km,2h 9 min,BIL ING
+29700230,Instituto de Educación Secundaria,Dr. Rodríguez Delgado,Público,"C/ Dolores Ibarruri, 2",29400,Ronda,Málaga,182 km,2h 10 min,BIL ING
+41701924,Instituto de Educación Secundaria,Profesor Juan Antonio Carrillo Salcedo,Público,"C/ Cervantes, s/n",41530,Morón de la Frontera,Sevilla,204 km,2h 10 min,BIL ING
+4001931,Instituto de Educación Secundaria,Valle del Almanzora,Público,"Avda. España, 33",4850,Cantoria,Almería,193 km,2h 11 min,BIL ING
+29002885,Instituto de Educación Secundaria,Monterroso,Público,"Avda. Santo Tomás de Aquino, s/n",29680,Estepona,Málaga,212 km,2h 12 min,BIL ING
+41000594,Instituto de Educación Secundaria,Nicolás Copérnico,Público,"Avda. Ronda de los Molinos, s/n",41400,Écija,Sevilla,181 km,2h 12 min,BIL ING
+4000250,Instituto de Educación Secundaria,Cardenal Cisneros,Público,"Avda. de América, s/n",4800,Albox,Almería,198 km,2h 13 min,PLURIL FRA/ING
+4005284,Instituto de Educación Secundaria,Martín García Ramos,Público,"Ctra. de la Estación, 8",4800,Albox,Almería,199 km,2h 13 min,BIL ING
+29009119,Instituto de Educación Secundaria,Puerta del Mar,Público,C/ Eslovaquia S/N,29680,Estepona,Málaga,213 km,2h 13 min,BIL ING
+29700035,Instituto de Educación Secundaria,Profesor Gonzalo Huesa,Público,"C/ San Vicente de Paul, s/n",29400,Ronda,Málaga,183 km,2h 14 min,BIL ING
+29700953,Instituto de Educación Secundaria,Mediterráneo,Público,"C/ Melilla, 20",29680,Estepona,Málaga,213 km,2h 14 min,PLURIL FRA/ING
+4005363,Instituto de Educación Secundaria,Al-Bujaira,Público,"Avda. Guillermo Reyna, 37",4600,Huércal-Overa,Almería,227 km,2h 15 min,BIL ING
+23700645,Instituto de Educación Secundaria,Colegiata de Santiago,Público,"Ctra. de Sabiote, s/n",23260,Castellar,Jaén,199 km,2h 15 min,BIL ING
+4002714,Instituto de Educación Secundaria,Cura Valera,Público,"Avda. Guillermo Reyna, 35",4600,Huércal-Overa,Almería,227 km,2h 16 min,BIL ING
+41002955,Instituto de Educación Secundaria,Fray Bartolomé de las Casas,Público,"Plaza de la Alameda, s/n",41530,Morón de la Frontera,Sevilla,206 km,2h 16 min,BIL ING
+14700304,Instituto de Educación Secundaria,Colonial,Público,"Avda. de la Constitución, 2",14120,Fuente Palmera,Córdoba,221 km,2h 17 min,BIL ING
+4700053,Instituto de Educación Secundaria,Juan Goytisolo,Público,"C/ Joan Manuel Serrat, s/n",4140,Carboneras,Almería,225 km,2h 18 min,BIL ING
+14005560,Instituto de Educación Secundaria,Aljanadic,Público,"C/ Almodóvar del Río, s/n",14730,Posadas,Córdoba,226 km,2h 20 min,BIL ING
+41021627,Instituto de Educación Secundaria,Hienipa,Público,"Avda. Salud Gutiérrez, s/n",41500,Alcalá de Guadaíra,Sevilla,236 km,2h 20 min,BIL ING
+41701341,Instituto de Educación Secundaria,María Inmaculada,Público,"C/ Nuestra Señora de los Reyes, s/n",41510,Mairena del Alcor,Sevilla,233 km,2h 20 min,BIL ING
+41000284,Instituto de Educación Secundaria,Al-Guadaira,Público,"Avda. 28 de Febrero, s/n",41500,Alcalá de Guadaíra,Sevilla,238 km,2h 21 min,BIL ING
+41700105,Instituto de Educación Secundaria,Albero,Público,"Avda. Tren de los Panaderos, 13",41500,Alcalá de Guadaíra,Sevilla,236 km,2h 21 min,BIL ING
+41000272,Instituto de Educación Secundaria,Cristóbal de Monroy,Público,"Avda. de la Constitución, s/n",41500,Alcalá de Guadaíra,Sevilla,239 km,2h 22 min,BIL ING
+41701845,Instituto de Educación Secundaria,El Coronil,Público,"C/ Poeta Miguel Benítez Castro, s/n",41760,El Coronil,Sevilla,230 km,2h 23 min,BIL ING
+4004437,Instituto de Educación Secundaria,Alyanub,Público,"C/ Mayor, 58",4620,Vera,Almería,245 km,2h 24 min,BIL ING
+4002052,Instituto de Educación Secundaria,Jaroso,Público,"Avda. Carlos Herrera, 25",4610,Cuevas del Almanzora,Almería,249 km,2h 25 min,BIL ING
+41700154,Instituto de Educación Secundaria,Ponce de León,Público,"C/ Constelación Pavo Real, s/n",41710,Utrera,Sevilla,236 km,2h 25 min,BIL ING
+4700341,Instituto de Educación Secundaria,Mar Serena,Público,"C/ Emilio Zurano, 22",4640,Pulpí,Almería,228 km,2h 26 min,BIL ING
+4004978,Instituto de Educación Secundaria,El Palmeral,Público,"C/ Hemano Lázaro, s/n",4620,Vera,Almería,246 km,2h 26 min,BIL ING
+41701444,Instituto de Educación Secundaria,Siglo XXI,Público,"C/ Torrelaguna, s/n",41017,Sevilla,Sevilla,245 km,2h 26 min,BIL FRA
+41011014,Instituto de Educación Secundaria,Profesor Tierno Galván,Público,"C/ Reyes Católicos, s/n",41500,Alcalá de Guadaíra,Sevilla,239 km,2h 27 min,BIL ING
+41007904,Instituto de Educación Secundaria,Virgen de Consolación,Público,"Paseo de Consolación, s/n",41710,Utrera,Sevilla,237 km,2h 28 min,PLURIL FRA/ING
+4001497,Instituto de Educación Secundaria,Mediterráneo,Público,"Ctra. AL-153, Km 1¿5",4630,Garrucha,Almería,248 km,2h 29 min,BIL ING
+11007791,Instituto de Educación Secundaria,Carlos Castilla del Pino,Público,"Avda. Castiella, 5",11360,San Roque,Cádiz,238 km,2h 29 min,BIL ING
+41007898,Instituto de Educación Secundaria,Ruiz Gijón,Público,"Paseo de Consolación, 1",41710,Utrera,Sevilla,236 km,2h 29 min,BIL FRA
+41010824,Instituto de Educación Secundaria,Margarita Salas,Público,"C/ Flor de Papel, s/n",41020,Sevilla,Sevilla,247 km,2h 29 min,PLURIL FRA/ING
+41701997,Instituto de Educación Secundaria,José María Infantes,Público,"C/ Jilguero, s/n",41710,Utrera,Sevilla,237 km,2h 29 min,BIL ING
+41701912,Instituto de Educación Secundaria,Francisco Rivero,Público,"C/ Miguel Hernández, s/n",41750,Los Molares,Sevilla,236 km,2h 30 min,BIL ING
+41000089,Instituto de Educación Secundaria,Miguel Servet,Público,"Paseo Miguel de Unamuno, 8",41020,Sevilla,Sevilla,250 km,2h 31 min,BIL ING
+41014003,Instituto de Educación Secundaria,Chaves Nogales,Público,"C/ Doctora Navarro Rodríguez, s/n.",41020,Sevilla,Sevilla,248 km,2h 31 min,BIL ING
+41701109,Instituto de Educación Secundaria,Ramón del Valle Inclán,Público,"C/ Doctor Palomares García, 2",41020,Sevilla,Sevilla,248 km,2h 31 min,BIL ING
+41701754,Instituto de Educación Secundaria,Mariana de Pineda,Público,"C/ Mesina, s/n",41089,Dos Hermanas,Sevilla,251 km,2h 31 min,BIL ING
+41701869,Instituto de Educación Secundaria,Ibn Jaldún,Público,"C/ Luis Cernuda, s/n",41700,Dos Hermanas,Sevilla,254 km,2h 31 min,BIL ING
+41700181,Instituto de Educación Secundaria,Hermanos Machado,Público,"Avda. Vía Flaminia, s/n",41089,Dos Hermanas,Sevilla,252 km,2h 32 min,BIL ING
+41001707,Instituto de Educación Secundaria,Virgen de Valme,Público,"Avda. Ramón y Cajal, s/n",41700,Dos Hermanas,Sevilla,255 km,2h 33 min,BIL ING
+41702023,Instituto de Educación Secundaria,Cantely,Público,"C/ Almendro, s/n",41700,Dos Hermanas,Sevilla,254 km,2h 33 min,BIL ING
+11005755,Instituto de Educación Secundaria,José Cadalso,Público,"Avda. Castiella, s/n",11360,San Roque,Cádiz,248 km,2h 34 min,BIL ING
+11007545,Instituto de Educación Secundaria,Castillo de Matrera,Público,"C/ Sevilla, 16",11650,Villamartín,Cádiz,213 km,2h 34 min,BIL ING
+14005298,Instituto de Educación Secundaria,Antonio Gala,Público,"Avda. de la Paz, s/n",14700,Palma del Río,Córdoba,209 km,2h 34 min,BIL ING
+14700316,Instituto de Educación Secundaria,La Jara,Público,"C/ Navaluenga, s/n",14440,Villanueva de Córdoba,Córdoba,229 km,2h 34 min,BIL ING
+41011041,Instituto de Educación Secundaria,Federico Mayor Zaragoza,Público,"C/ Camino del Silo, 4",41012,Sevilla,Sevilla,256 km,2h 34 min,BIL ING
+41701687,Instituto de Educación Secundaria,Félix Rodríguez de la Fuente,Público,"C/ Mar Tirreno, s/n",41015,Sevilla,Sevilla,253 km,2h 34 min,BIL ING
+41700415,Instituto de Educación Secundaria,Ciudad Jardín,Público,"C/ Canal, s/n",41005,Sevilla,Sevilla,252 km,2h 35 min,PLURIL FRA/ING
+41700427,Instituto de Educación Secundaria,Azahar,Público,"Avda. Alcalde Manuel del Valle, 69",41008,Sevilla,Sevilla,254 km,2h 35 min,BIL ING
+41009071,Instituto de Educación Secundaria,Antonio Machado,Público,"C/ Arroyo, 80",41008,Sevilla,Sevilla,253 km,2h 36 min,BIL ING
+41009135,Instituto de Educación Secundaria,Heliópolis,Público,"Avda. Guadalbullón, 1",41013,Sevilla,Sevilla,256 km,2h 36 min,
+41009858,Instituto de Educación Secundaria,Albert Einstein,Público,"C/ Salineros, s/n",41008,Sevilla,Sevilla,254 km,2h 36 min,BIL ING
+41009871,Instituto de Educación Secundaria,Beatriz de Suabia,Público,"C/ Beatriz de Suabia, s/n",41005,Sevilla,Sevilla,251 km,2h 36 min,BIL ING
+41700117,Instituto de Educación Secundaria,Llanes,Público,"C/ Escultor Francisco Buiza, s/n",41008,Sevilla,Sevilla,253 km,2h 36 min,BIL ING
+41700178,Instituto de Educación Secundaria,Punta del Verde,Público,"C/ Barrionuevo, 4",41012,Sevilla,Sevilla,257 km,2h 36 min,BIL ING
+23700323,Instituto de Educación Secundaria,Doctor Francisco Marín,Público,"Ctra. de la Puerta, 49",23380,Siles,Jaén,243 km,2h 37 min,BIL ING
+41006951,Instituto de Educación Secundaria,Luca de Tena,Público,"C/ Pirineos, 17",41005,Sevilla,Sevilla,252 km,2h 37 min,BIL ING
+41010769,Instituto de Educación Secundaria,Nervión,Público,"C/ Profesor Buenaventura Pinillos, s/n",41005,Sevilla,Sevilla,252 km,2h 37 min,BIL ING
+41011038,Instituto de Educación Secundaria,Gonzalo Nazareno,Público,"C/ Las Botijas, 10",41702,Dos Hermanas,Sevilla,254 km,2h 37 min,BIL ING
+41700038,Instituto de Educación Secundaria,Macarena,Público,"C/ Doctor José Manuel Puelles de los Santos, s/n",41009,Sevilla,Sevilla,255 km,2h 37 min,BIL ING
+41700403,Instituto de Educación Secundaria,Isbilya,Público,"C/ Esperanza de la Trinidad, 7",41003,Sevilla,Sevilla,252 km,2h 38 min,BIL ING
+41006936,Instituto de Educación Secundaria,Murillo,Público,"C/ José Recuerda Rubio, s/n",41018,Sevilla,Sevilla,252 km,2h 39 min,PLURIL ING/FRA
+41008532,Instituto de Educación Secundaria,San Pablo,Público,"Avda. Éfeso, s/n",41007,Sevilla,Sevilla,252 km,2h 39 min,BIL ING
+11000711,Instituto de Educación Secundaria,Alminares,Público,"Avda. de la Constitución, s/n",11630,Arcos de la Frontera,Cádiz,223 km,2h 40 min,BIL ING
+41011117,Instituto de Educación Secundaria,Miguel de Cervantes,Público,"C/ Manzana, s/n",41009,Sevilla,Sevilla,256 km,2h 40 min,BIL ING
+41701936,Instituto de Educación Secundaria,Torre del Águila,Público,"C/ Gladiolo, s/n",41719,El Palmar de Troya,Sevilla,254 km,2h 40 min,BIL ING
+11701152,Instituto de Educación Secundaria,Antonio Machado,Público,"C/ Blanca de los Ríos, 87",11300,La Línea de la Concepción,Cádiz,251 km,2h 41 min,
+41002441,Instituto de Educación Secundaria,Guadalquivir,Público,"Avda. de la Cruz, 31",41440,Lora del Río,Sevilla,230 km,2h 41 min,BIL ING
+41006900,Instituto de Educación Secundaria,Velázquez,Público,"C/ Francisco Carrión Mejías, 10",41003,Sevilla,Sevilla,252 km,2h 41 min,BIL ING
+41006924,Instituto de Educación Secundaria,Fernando de Herrera,Público,"Avda. de la Palmera, 20",41012,Sevilla,Sevilla,259 km,2h 41 min,PLURIL FRA/ING
+41701894,Instituto de Educación Secundaria,Al-Lawra,Público,"Bda. de las Viñas, s/n",41440,Lora del Río,Sevilla,230 km,2h 41 min,BIL ING
+14700419,Instituto de Educación Secundaria,La Escribana,Público,"C/ Cultura Sebastián, 9",14300,Villaviciosa de Córdoba,Córdoba,250 km,2h 42 min,BIL ING
+41006912,Instituto de Educación Secundaria,Gustavo Adolfo Bécquer,Público,"C/ López de Gomara, s/n",41010,Sevilla,Sevilla,262 km,2h 42 min,BIL ING
+41007357,Instituto de Educación Secundaria,Vicente Aleixandre,Público,"C/ San Vicente de Paúl, 5",41010,Sevilla,Sevilla,262 km,2h 42 min,BIL ING
+41700041,Instituto de Educación Secundaria,Triana,Público,"C/ San Jacinto, 79",41010,Sevilla,Sevilla,262 km,2h 42 min,PLURIL ING/FRA + PLURIL FRA/ING
+41700828,Instituto de Educación Secundaria,Severo Ochoa,Público,"C/ Severo Ochoa, s/n",41920,San Juan de Aznalfarache,Sevilla,263 km,2h 42 min,PLURIL FRA/ING
+41701183,Instituto de Educación Secundaria,Néstor Almendros,Público,"C/ Néstor Almendros, s/n",41940,Tomares,Sevilla,263 km,2h 42 min,BIL ING
+4700545,Instituto de Educación Secundaria,Aurantia,Público,Ctra. Nacional 340,4410,Benahadux,Almería,280 km,2h 43 min,BIL ING
+11000289,Instituto de Educación Secundaria,Carlos Cano,Público,"Avda. Carlos Cano, s/n",11370,Los Barrios,Cádiz,260 km,2h 43 min,BIL ING
+41003182,Instituto de Educación Secundaria,Al-Mudeyne,Público,"C/ María Auxiliadora, 2",41720,Los Palacios y Villafranca,Sevilla,250 km,2h 43 min,BIL FRA
+41006894,Instituto de Educación Secundaria,San Isidoro,Público,"C/ Amor de Dios, 28",41002,Sevilla,Sevilla,257 km,2h 43 min,BIL ALE
+41008994,Instituto de Educación Secundaria,Maestro Diego Llorente,Público,"Ctra. del Monte, 1",41720,Los Palacios y Villafranca,Sevilla,250 km,2h 43 min,BIL ING
+41012225,Instituto de Educación Secundaria,Ítaca,Público,"Avda. Cristina Hoyos, s/n",41940,Tomares,Sevilla,264 km,2h 43 min,BIL ING
+41701419,Instituto de Educación Secundaria,Itálica,Público,"C/ TIERNO GALVÁN, S/N",41970,Santiponce,Sevilla,262 km,2h 43 min,BIL ING
+11000231,Instituto de Educación Secundaria,Bahía de Algeciras,Público,"Avda. Holanda, s/n",11205,Algeciras,Cádiz,259 km,2h 44 min,BIL ING
+11700500,Instituto de Educación Secundaria,Carlos III,Público,"C/ Casimiro de Angulo, 19",11660,Prado del Rey,Cádiz,224 km,2h 44 min,BIL ING
+41001094,Instituto de Educación Secundaria,Maese Rodrigo,Público,"Ctra. de Alcalá, s/n",41410,Carmona,Sevilla,266 km,2h 44 min,BIL ING
+41700099,Instituto de Educación Secundaria,Juan de Mairena,Público,"Avda. de las Américas, s/n",41927,Mairena del Aljarafe,Sevilla,266 km,2h 44 min,BIL ING
+41700351,Instituto de Educación Secundaria,Atenea,Público,"C/ Ítaca, 2",41927,Mairena del Aljarafe,Sevilla,265 km,2h 44 min,BIL ING
+41701821,Instituto de Educación Secundaria,Los Álamos,Público,"C/ Clara Campoamor, s/n",41930,Bormujos,Sevilla,264 km,2h 44 min,BIL ING
+11003862,Instituto de Educación Secundaria,Tolosa,Público,"Avda. de la Banqueta, 12",11300,La Línea de la Concepción,Cádiz,253 km,2h 45 min,BIL ING
+11003874,Instituto de Educación Secundaria,Mediterráneo,Público,"Avda. María Auxiliadora, 16",11300,La Línea de la Concepción,Cádiz,253 km,2h 45 min,BIL ING
+11003886,Instituto de Educación Secundaria,Virgen de la Esperanza,Público,"Avda. La Banqueta, 10-12",11300,La Línea de la Concepción,Cádiz,253 km,2h 45 min,BIL ING
+41000880,Instituto de Educación Secundaria,Tartessos,Público,"Bda. Hiconsa, s/n",41900,Camas,Sevilla,261 km,2h 45 min,BIL ING
+41003741,Instituto de Educación Secundaria,Miguel de Mañara,Público,"C/ Cultura, s/n. (Aptdo. de correos 103)",41300,La Rinconada,Sevilla,264 km,2h 45 min,BIL ING
+41700968,Instituto de Educación Secundaria,Torre de los Guzmanes,Público,"C/ Sánchez Cotán, s/n",41980,La Algaba,Sevilla,262 km,2h 45 min,
+41701626,Instituto de Educación Secundaria,Cavaleri,Público,"Ronda de Cavaleri, s/n",41927,Mairena del Aljarafe,Sevilla,266 km,2h 45 min,PLURIL ING/FRA
+41702311,Instituto de Educación Secundaria,Matilde Casanova,Público,"C/ San Bartolomé, s/n",41980,La Algaba,Sevilla,261 km,2h 45 min,BIL ING
+11003916,Instituto de Educación Secundaria,Mar de Poniente,Público,"Avda. del Mar, s/n",11300,La Línea de la Concepción,Cádiz,254 km,2h 46 min,BIL ING
+41003765,Instituto de Educación Secundaria,San José de la Rinconada,Público,"C/ Cultura, 43",41300,La Rinconada,Sevilla,264 km,2h 46 min,BIL ING
+41011026,Instituto de Educación Secundaria,Alixar,Público,"Avda. de la Unidad, s/n",41950,Castilleja de la Cuesta,Sevilla,268 km,2h 46 min,BIL ING
+41701766,Instituto de Educación Secundaria,Carmen Laffón,Público,"C/ Alcalde Pepe Iglesias, s/n",41300,La Rinconada,Sevilla,264 km,2h 46 min,BIL ING
+11700561,Instituto de Educación Secundaria,Sierra Luna,Público,"Avda. de Doña Rosa García, 8",11370,Los Barrios,Cádiz,261 km,2h 47 min,BIL ING
+41008398,Instituto de Educación Secundaria,Lauretum,Público,"C/ Miguel Ángel Blanco s/n,",41807,Espartinas,Sevilla,269 km,2h 47 min,BIL ING
+41701328,Instituto de Educación Secundaria,Pablo Neruda,Público,"C/ Manuel Rodríguez Navarro, 4",41950,Castilleja de la Cuesta,Sevilla,268 km,2h 47 min,BIL ING
+41701377,Instituto de Educación Secundaria,Antonio de Ulloa,Público,"Avda. de la Ermita, s/n",41309,La Rinconada,Sevilla,263 km,2h 47 min,BIL ING
+11000371,Instituto de Educación Secundaria,Kursaal,Público,"Avda. Virgen de Europa, 4",11201,Algeciras,Cádiz,262 km,2h 48 min,BIL ING
+11000381,Instituto de Educación Secundaria,Ventura Morón,Público,"Plaza Joaquín Ibáñez, 3",11203,Algeciras,Cádiz,263 km,2h 48 min,BIL ING
+11008446,Instituto de Educación Secundaria,Saladillo,Público,"C/ Duque de Rivas, s/n",11207,Algeciras,Cádiz,265 km,2h 48 min,BIL ING
+11701103,Instituto de Educación Secundaria,Federico García Lorca,Público,"C/ Fernando de Herrera, s/n",11207,Algeciras,Cádiz,265 km,2h 48 min,BIL ING + PLURIL ING/FRA
+41011713,Instituto de Educación Secundaria,Hipatia,Público,"Cmo.  del Jardinillo, s/n",41927,Mairena del Aljarafe,Sevilla,267 km,2h 48 min,BIL ING
+41700853,Instituto de Educación Secundaria,Jacarandá,Público,"C/ Diamantino García, s/n",41310,Brenes,Sevilla,270 km,2h 48 min,BIL ING
+41701286,Instituto de Educación Secundaria,El Majuelo,Público,"C/ Enrique Granados, 43",41960,Gines,Sevilla,268 km,2h 48 min,BIL ING
+41701614,Instituto de Educación Secundaria,Las Encinas,Público,"C/ García Lorca, 16",41907,Valencina de la Concepción,Sevilla,264 km,2h 48 min,BIL ING
+41011002,Instituto de Educación Secundaria,Ilipa Magna,Público,"Avda. de Andalucía, s/n",41200,Alcalá del Río,Sevilla,267 km,2h 49 min,BIL ING
+41011464,Instituto de Educación Secundaria,Juan Ciudad Duarte,Público,"C/ San Pedro, s/n",41930,Bormujos,Sevilla,270 km,2h 49 min,BIL ING
+41017673,Instituto de Educación Secundaria,Palomares,Público,"Avda. del Aljarafe, s/n",41928,Palomares del Río,Sevilla,270 km,2h 51 min,BIL ING
+14005501,Instituto de Educación Secundaria,Alto Guadiato,Público,"Ronda del Guadiato, s/n",14200,Peñarroya-Pueblonuevo,Córdoba,279 km,2h 52 min,BIL FRA
+41700889,Instituto de Educación Secundaria,Delgado Brackenbury,Público,"Avda. Jesús Nazareno, s/n",41730,Las Cabezas de San Juan,Sevilla,265 km,2h 52 min,BIL ING
+41701262,Instituto de Educación Secundaria,El Molinillo,Público,C/ Francisco Giner de los Rios,41210,Guillena,Sevilla,275 km,2h 53 min,BIL ING
+11006693,Instituto de Educación Secundaria,Las Cumbres,Público,"C/ Las Cumbres, s/n. Apdo. 38",11600,Ubrique,Cádiz,241 km,2h 54 min,BIL ING
+14005663,Instituto de Educación Secundaria,Los Pedroches,Público,"C/ Marcos Redondo, s/n",14400,Pozoblanco,Córdoba,252 km,2h 54 min,BIL ING
+14007684,Instituto de Educación Secundaria,Antonio María Calero,Público,"Avda. Marcos Redondo, s/n",14400,Pozoblanco,Córdoba,252 km,2h 54 min,BIL ING
+41001461,Instituto de Educación Secundaria,Rodrigo Caro,Público,C/ Instituto nº2,41100,Coria del Río,Sevilla,272 km,2h 54 min,BIL ING
+41701663,Instituto de Educación Secundaria,Pino Rueda,Público,"Avda. de la Democracia, s/n",41806,Umbrete,Sevilla,277 km,2h 54 min,BIL ING
+11700937,Instituto de Educación Secundaria,Guadalpeña,Público,"C/ Francia, s/n",11630,Arcos de la Frontera,Cádiz,237 km,2h 55 min,BIL ING
+41017685,Instituto de Educación Secundaria,Almensilla,Público,"C/ Avenida de la Solidaridad, s/n",41111,Almensilla,Sevilla,280 km,2h 55 min,BIL ING
+41001471,Instituto de Educación Secundaria,Caura,Público,"Cerro De San Juan, s/n",41100,Coria del Río,Sevilla,272 km,2h 56 min,BIL ING
+41700920,Instituto de Educación Secundaria,Pepe Ruiz Vela,Público,"Avda. Aguas Santas, 114",41318,Villaverde del Río,Sevilla,276 km,2h 56 min,BIL ING
+41701158,Instituto de Educación Secundaria,Cantillana,Público,"Bda. Pintor López Cabrera, s/n",41320,Cantillana,Sevilla,279 km,2h 56 min,BIL ING
+11700858,Instituto de Educación Secundaria,Maestro Francisco Fatou,Público,"C/ Menéndez Pidal, 1",11600,Ubrique,Cádiz,243 km,2h 58 min,BIL ING
+41701021,Instituto de Educación Secundaria,Gerena,Público,"C/ Maestro José Valdera Gil, s/n",41860,Gerena,Sevilla,280 km,2h 58 min,BIL ING
+11006681,Instituto de Educación Secundaria,Ntra. Sra. de los Remedios,Público,"Avda. Herrera Oria, s/n",11600,Ubrique,Cádiz,243 km,2h 59 min,BIL ING
+41702278,Instituto de Educación Secundaria,El Fontanal,Público,"Avda. Antonio Calvo Ruiz, 17",41740,Lebrija,Sevilla,281 km,3h 0 min,BIL ING
+41701638,Instituto de Educación Secundaria,Al-Iscar,Público,"C/ Lagar, s/n",41808,Villanueva del Ariscal,Sevilla,278 km,3h 1 min,BIL ING
+41701778,Instituto de Educación Secundaria,Lucus Solis,Público,"C/ Juan Antonio Santero, 2",41800,Sanlúcar la Mayor,Sevilla,285 km,3h 1 min,BIL ING
+41702059,Instituto de Educación Secundaria,Laguna de Tollón,Público,"Avda. Blas Infante, s/n",41749,El Cuervo de Sevilla,Sevilla,286 km,3h 1 min,BIL ING
+41701161,Instituto de Educación Secundaria,Heliche,Público,"C/ Tallista Luis Jiménez Espinosa, s/n",41804,Olivares,Sevilla,288 km,3h 2 min,BIL ING
+41002359,Instituto de Educación Secundaria,Virgen del Castillo,Público,"Avda. Doctor José Viel, 1",41740,Lebrija,Sevilla,283 km,3h 3 min,BIL ING
+41701641,Instituto de Educación Secundaria,Olontigi,Público,"C/ Santa María del Aljarafe, s/n",41849,Aznalcázar,Sevilla,289 km,3h 4 min,BIL ING
+14004099,Instituto de Educación Secundaria,Jerez y Caballero,Público,"Paseo de la Constitución, 14",14270,Hinojosa del Duque,Córdoba,293 km,3h 5 min,BIL ING
+11700767,Instituto de Educación Secundaria,Seritium,Público,"Avda. Amsterdam, s/n",11406,Jerez de la Frontera,Cádiz,263 km,3h 8 min,BIL ING
+21700563,Instituto de Educación Secundaria,El Valle,Público,"C/ Reyes Católicos, 28",21740,Hinojos,Huelva,298 km,3h 8 min,BIL ING
+41701298,Instituto de Educación Secundaria,Torre del Rey,Público,"Avda. Pío XII, s/n",41840,Pilas,Sevilla,295 km,3h 8 min,BIL ING
+41702175,Instituto de Educación Secundaria,Aznalcóllar,Público,"C/ La Cruz, 92",41870,Aznalcóllar,Sevilla,291 km,3h 8 min,BIL ING
+11700305,Instituto de Educación Secundaria,Pedro Sáinz de Andino,Público,"Paseo de la Playa, 19",11180,Alcalá de los Gazules,Cádiz,302 km,3h 9 min,BIL ING
+41701651,Instituto de Educación Secundaria,Virgen de la Soledad,Público,"Plaza de la Peña, 1",41840,Pilas,Sevilla,294 km,3h 9 min,
+11008483,Instituto de Educación Secundaria,José M. Caballero Bonald,Público,"C/ Ntra. Sra. del Traspaso, s/n",11406,Jerez de la Frontera,Cádiz,264 km,3h 10 min,BIL ING
+11700585,Instituto de Educación Secundaria,Almadraba,Público,"C/ Diego Piñero Moreno, 1",11380,Tarifa,Cádiz,283 km,3h 10 min,BIL ING
+41701833,Instituto de Educación Secundaria,Castilblanco de los Arroyos,Público,"C/ Pablo Picasso, s/n",41230,Castilblanco de los Arroyos,Sevilla,287 km,3h 11 min,BIL ING
+21000693,Instituto de Educación Secundaria,Delgado Hernández,Público,"C/ Dalí, 1",21710,Bollullos Par del Condado,Huelva,313 km,3h 12 min,BIL ING
+11003217,Instituto de Educación Secundaria,Alvar Núñez,Público,"C/ Sancho Dávila, s/n",11407,Jerez de la Frontera,Cádiz,266 km,3h 13 min,BIL ING
+11008513,Instituto de Educación Secundaria,Andrés Benítez,Público,"C/ Doctor Fléming, s/n. Polígono de San Benito",11407,Jerez de la Frontera,Cádiz,266 km,3h 14 min,BIL ING
+11700172,Instituto de Educación Secundaria,Santa Isabel de Hungría,Público,"C/ La Merced, 40",11404,Jerez de la Frontera,Cádiz,265 km,3h 14 min,BIL ING
+21700423,Instituto de Educación Secundaria,San Antonio,Público,"C/ El Pendique, s/n",21710,Bollullos Par del Condado,Huelva,318 km,3h 14 min,BIL ING
+11701115,Instituto de Educación Secundaria,San Telmo,Público,"Bda. San Telmo, s/n",11408,Jerez de la Frontera,Cádiz,266 km,3h 15 min,BIL ING
+41701456,Instituto de Educación Secundaria,Nuestra Señora del Rocío,Público,"C/ Francisco Bedoya, 29",41850,Villamanrique de la Condesa,Sevilla,301 km,3h 15 min,BIL ING
+11007387,Instituto de Educación Secundaria,Asta Regia,Público,"Avda. Moreno Mendoza, 4",11408,Jerez de la Frontera,Cádiz,267 km,3h 16 min,BIL ING
+11701140,Instituto de Educación Secundaria,Sofía,Público,"C/ Doctor Marañón, 13",11407,Jerez de la Frontera,Cádiz,266 km,3h 16 min,BIL ING
+21700599,Instituto de Educación Secundaria,Virgen del Socorro,Público,"C/ Hermanos Pinzón, s/n",21720,Rociana del Condado,Huelva,321 km,3h 16 min,BIL ING
+21700061,Instituto de Educación Secundaria,Catedrático Pulido Rubio,Público,"C/ Consejero Montaner, s/n",21830,Bonares,Huelva,326 km,3h 18 min,BIL ING
+21700460,Instituto de Educación Secundaria,La Palma,Público,"Paseo de los Estudiantes, s/n",21700,La Palma del Condado,Huelva,321 km,3h 18 min,BIL ING
+11004672,Instituto de Educación Secundaria,Manuel de Falla,Público,"Avda. Palestina, s/n",11510,Puerto Real,Cádiz,287 km,3h 19 min,BIL ING
+11004696,Instituto de Educación Secundaria,Virgen del Carmen,Público,"Paseo  María Auxiliadora, s/n",11510,Puerto Real,Cádiz,286 km,3h 20 min,BIL ING
+11700718,Instituto de Educación Secundaria,La Jarcia,Público,"C/ Ribera del Muelle, s/n",11510,Puerto Real,Cádiz,288 km,3h 20 min,PLURIL FRA/ING
+21700642,Instituto de Educación Secundaria,La Ribera,Público,"Avda. Che Guevara, s/n",21730,Almonte,Huelva,326 km,3h 20 min,BIL ING
+21700654,Instituto de Educación Secundaria,Doñana,Público,"Avda. de la Juventud, s/n",21730,Almonte,Huelva,326 km,3h 20 min,BIL ING
+11700433,Instituto de Educación Secundaria,Profesor Antonio Muro,Público,"C/ Séneca, s/n",11510,Puerto Real,Cádiz,288 km,3h 21 min,BIL ING
+21700459,Instituto de Educación Secundaria,Alfonso Romero Barcojo,Público,"C/ Venida de la Virgen, s/n",21840,Niebla,Huelva,327 km,3h 21 min,BIL ING
+41701948,Instituto de Educación Secundaria,Aníbal González,Público,"Bda. San Cristóbal, s/n",41360,El Pedroso,Sevilla,274 km,3h 22 min,BIL ING
+11004039,Instituto de Educación Secundaria,Sidón,Público,"Avda. Azocarrem, s/n",11170,Medina-Sidonia,Cádiz,325 km,3h 23 min,BIL ING
+11700445,Instituto de Educación Secundaria,José Luis Tejada Peluffo,Público,"Avda. Guardia Civil, 1",11500,El Puerto de Santa María,Cádiz,285 km,3h 23 min,PLURIL FRA/ING
+11004416,Instituto de Educación Secundaria,Pedro Muñoz Seca,Público,"Avda. de la Estación, s/n",11500,El Puerto de Santa María,Cádiz,285 km,3h 24 min,
+11700688,Instituto de Educación Secundaria,San Severiano,Público,"Avda. San Severiano, 8",11007,Cádiz,Cádiz,294 km,3h 25 min,BIL ING
+11700834,Instituto de Educación Secundaria,Las Banderas,Público,"Ctra. Sanlúcar, Km. 2,5",11500,El Puerto de Santa María,Cádiz,289 km,3h 25 min,BIL ING
+21700371,Instituto de Educación Secundaria,Diego Rodríguez Estrada,Público,Avda. Andalucía,21610,San Juan del Puerto,Huelva,339 km,3h 25 min,BIL ING
+11001828,Instituto de Educación Secundaria,Rafael Alberti,Público,"C/ Amiel, s/n",11012,Cádiz,Cádiz,295 km,3h 26 min,BIL ING
+11700603,Instituto de Educación Secundaria,Pintor Juan Lara,Público,"Cmo. del Águila, 6",11500,El Puerto de Santa María,Cádiz,290 km,3h 26 min,BIL ING
+11005241,Instituto de Educación Secundaria,Isla de León,Público,"Ctra. Carraca, s/n",11100,San Fernando,Cádiz,297 km,3h 27 min,BIL ING
+11006486,Instituto de Educación Secundaria,Fuerte de Cortadura,Público,"C/ Vía Augusta Julia, s/n",11011,Cádiz,Cádiz,296 km,3h 28 min,BIL ING
+11700810,Instituto de Educación Secundaria,La Arboleda,Público,"Avda. Padre Ellacuría, 13",11500,El Puerto de Santa María,Cádiz,291 km,3h 28 min,PLURIL FRA/ING
+11700871,Instituto de Educación Secundaria,Botánico,Público,"Avda. Pozo de las Vacas, s/n. Finca El Jardín Botánico",11540,Sanlúcar de Barrameda,Cádiz,317 km,3h 28 min,BIL ING
+21004169,Instituto de Educación Secundaria,Juan Ramón Jiménez,Público,"Avda. V Centenario, s/n",21800,Moguer,Huelva,345 km,3h 28 min,PLURIL FRA/ING
+11004556,Instituto de Educación Secundaria,Cornelio Balbo,Público,"C/ Nuevo Mundo, s/n",11004,Cádiz,Cádiz,297 km,3h 29 min,BIL ING
+11005287,Instituto de Educación Secundaria,Wenceslao Benítez,Público,"Avda. de la Armada, s/n. Apto. correos 141",11100,San Fernando,Cádiz,298 km,3h 29 min,BIL ING
+11700299,Instituto de Educación Secundaria,Drago,Público,"C/ Marianista Cubillo, 15",11008,Cádiz,Cádiz,295 km,3h 29 min,BIL FRA
+11008239,Instituto de Educación Secundaria,Sancti Petri,Público,"Polígo La Magdalena, s/n",11100,San Fernando,Cádiz,300 km,3h 30 min,BIL ING
+11700147,Instituto de Educación Secundaria,La Bahía,Público,"Avda. Constitución, s/n",11100,San Fernando,Cádiz,302 km,3h 31 min,BIL ING
+11700615,Instituto de Educación Secundaria,Juan Sebastián Elcano,Público,"Plaza Escritor Eduardo Mendicuti, s/n",11540,Sanlúcar de Barrameda,Cádiz,318 km,3h 31 min,BIL ING
+21700401,Instituto de Educación Secundaria,Dolmen de Soto,Público,"C/ Sevilla, 4",21620,Trigueros,Huelva,345 km,3h 31 min,BIL ING
+21002011,Instituto de Educación Secundaria,La Marisma,Público,"Avda. Santa Marta, s/n",21005,Huelva,Huelva,349 km,3h 32 min,
+21003301,Instituto de Educación Secundaria,La Orden,Público,"Avda. de la Cinta, s/n",21005,Huelva,Huelva,350 km,3h 32 min,BIL FRA
+21003712,Instituto de Educación Secundaria,Fuentepiña,Público,"C/ Camino del Saladillo, s/n",21007,Huelva,Huelva,349 km,3h 32 min,BIL ING
+11004131,Instituto de Educación Secundaria,Caepionis,Público,"Avda. Doctor Félix Rodríguez de la Fuente, s/n",11550,Chipiona,Cádiz,300 km,3h 34 min,BIL ING
+11700123,Instituto de Educación Secundaria,Huerta del Rosario,Público,"Callej  de los Frailes, s/n",11130,Chiclana de la Frontera,Cádiz,305 km,3h 34 min,BIL ING
+11700354,Instituto de Educación Secundaria,Ciudad de Hércules,Público,"C/ Cuba, 2",11130,Chiclana de la Frontera,Cádiz,302 km,3h 34 min,BIL ING
+11701188,Instituto de Educación Secundaria,San Lucas,Público,"Avda. Bajo de Guía, 2",11540,Sanlúcar de Barrameda,Cádiz,319 km,3h 34 min,BIL ING
+21001892,Instituto de Educación Secundaria,La Rábida,Público,"Avda. Manuel Siurot, 9",21004,Huelva,Huelva,351 km,3h 34 min,BIL ING
+21001909,Instituto de Educación Secundaria,Diego de Guzmán y Quesada,Público,"Avda. Manuel Siurot, 11",21004,Huelva,Huelva,351 km,3h 34 min,BIL ING
+21003980,Instituto de Educación Secundaria,José Caballero,Público,"C/ Tráfico Pesado, s/n. Apdo. 1200",21004,Huelva,Huelva,351 km,3h 34 min,BIL ING
+11004866,Instituto de Educación Secundaria,Castillo de Luna,Público,"C/ Navalcán, s/n",11520,Rota,Cádiz,298 km,3h 35 min,BIL ING
+21001922,Instituto de Educación Secundaria,Pintor Pedro Gómez,Público,"Avda. Manuel Siurot, 40",21002,Huelva,Huelva,351 km,3h 35 min,BIL ING
+21001995,Instituto de Educación Secundaria,Alto Conquero,Público,"Avda. Manuel Siurot, 36",21002,Huelva,Huelva,351 km,3h 35 min,BIL ING + BIL FRA
+21700356,Instituto de Educación Secundaria,Estuaria,Público,"C/ Cortegana, 33",21006,Huelva,Huelva,350 km,3h 35 min,BIL ING
+11007582,Instituto de Educación Secundaria,Pablo Ruiz Picasso,Público,"Avda. de la Diputación, s/n",11130,Chiclana de la Frontera,Cádiz,303 km,3h 36 min,PLURIL FRA/ING
+21001910,Instituto de Educación Secundaria,Alonso Sánchez,Público,"Avda. Pío XII, s/n",21004,Huelva,Huelva,352 km,3h 36 min,BIL ING
+21700393,Instituto de Educación Secundaria,Clara Campoamor,Público,"Avda. Pío XII, s/n",21006,Huelva,Huelva,352 km,3h 36 min,BIL ING
+11002213,Instituto de Educación Secundaria,Poeta García Gutiérrez,Público,"C/ Santa Ana, s/n",11130,Chiclana de la Frontera,Cádiz,303 km,3h 37 min,BIL ALE
+11700883,Instituto de Educación Secundaria,La Pedrera Blanca,Público,"Callej  de la Pedrera, s/n",11130,Chiclana de la Frontera,Cádiz,307 km,3h 37 min,BIL ING
+11007533,Instituto de Educación Secundaria,Arroyo Hondo,Público,"C/ Maestro  Manuel J. Casal Egea, 2",11520,Rota,Cádiz,300 km,3h 38 min,BIL ING
+21700551,Instituto de Educación Secundaria,Juan Antonio Pérez Mercader,Público,"Blvar. del Ferrocarril, 2",21120,Aljaraque,Huelva,356 km,3h 38 min,BIL ING
+21002951,Instituto de Educación Secundaria,Don Bosco,Público,"C/ Diputación, s/n",21600,Valverde del Camino,Huelva,345 km,3h 40 min,BIL ING
+21003128,Instituto de Educación Secundaria,Carabelas,Público,"C/ Evaristo Domínguez, s/n",21810,Palos de la Frontera,Huelva,355 km,3h 40 min,BIL ING
+21003165,Instituto de Educación Secundaria,Diego Angulo,Público,"Ctra. de Calañas, s/n",21600,Valverde del Camino,Huelva,345 km,3h 40 min,BIL ING
+21700381,Instituto de Educación Secundaria,San Blas,Público,"Plaza Doña Elvira Embid, s/n",21200,Aracena,Huelva,340 km,3h 43 min,BIL ING
+11700949,Instituto de Educación Secundaria,Vicente Aleixandre,Público,"Bda. El Pinar, s/n",11160,Barbate,Cádiz,331 km,3h 46 min,BIL ING
+21000899,Instituto de Educación Secundaria,Rafael Reyes,Público,"Ctra. Huelva-Ayamonte, s/n",21450,Cartaya,Huelva,371 km,3h 46 min,BIL ING
+21700435,Instituto de Educación Secundaria,Mapi Valle,Público,"C/ Miguel Ángel, s/n",21450,Cartaya,Huelva,372 km,3h 46 min,BIL ING
+11000824,Instituto de Educación Secundaria,Trafalgar,Público,"C/ Madrid, 4",11160,Barbate,Cádiz,331 km,3h 47 min,BIL ING
+21002975,Instituto de Educación Secundaria,Odón Betanzos Palacios,Público,"Avda. Santa Clara, s/n",21130,Moguer,Huelva,366 km,3h 48 min,BIL ING
+21003074,Instituto de Educación Secundaria,Bitácora,Público,"C/ Séneca, 18",21100,Punta Umbría,Huelva,369 km,3h 48 min,BIL ING
+21700307,Instituto de Educación Secundaria,Saltés,Público,"C/ Pintor José Caballero, s/n",21100,Punta Umbría,Huelva,370 km,3h 48 min,BIL ING
+21700630,Instituto de Educación Secundaria,La Arboleda,Público,"Avda. de la Arboleda, s/n",21440,Lepe,Huelva,382 km,3h 51 min,BIL ING
+21000310,Instituto de Educación Secundaria,La Alborá,Público,"Avda. Pedro Carrasco, s/n",21520,Alosno,Huelva,384 km,3h 57 min,BIL ING
+21700502,Instituto de Educación Secundaria,Guadiana,Público,"C/ Doctor Severo Ochoa, s/n",21400,Ayamonte,Huelva,396 km,3h 58 min,BIL ING
+21700411,Instituto de Educación Secundaria,José Antonio Fernández Muriel,Público,Ctra. de Circunvalación Huelva-Ayamonte,21440,Lepe,Huelva,397 km,3h 59 min,BIL ING
+21700587,Instituto de Educación Secundaria,San Miguel,Público,"C/ Libertad, 2",21290,Jabugo,Huelva,359 km,3h 59 min,BIL ING

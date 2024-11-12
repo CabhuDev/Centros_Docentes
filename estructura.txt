@@ -1,0 +1,51 @@
+/CentrosJuntaAndalucia
+│
+├── backend/                          # Contiene la lógica y servicios del lado del servidor
+│   ├── app/
+│   │   ├── __init__.py               # Inicialización del módulo app (configuración general)
+│   │   ├── main.py                   # Punto de entrada para iniciar la aplicación FastAPI/Flask
+│   │   ├── models/                   # Define los modelos de datos (esquemas)
+│   │   │   ├── centro.py             # Clase CentroEducativo y otros modelos necesarios
+│   │   │   └── __init__.py           
+│   │   ├── routers/                  # Define las rutas (endpoints) de la API
+│   │   │   ├── csv_routes.py         # Rutas para manejar CRUD de datos CSV
+│   │   │   ├── google_routes.py      # Rutas para manejar peticiones de tiempos de viaje de la API de Google
+│   │   │   └── __init__.py
+│   │   ├── services/                 # Servicios y lógica de negocio
+│   │   │   ├── csv_service.py        # Funciones de gestión de los archivos CSV (leer, añadir, modificar, eliminar)
+│   │   │   ├── google_service.py     # Funciones para conectarse con la API de Google
+│   │   │   └── __init__.py
+│   │   ├── utils/                    # Utilidades generales que pueden ser compartidas
+│   │   │   ├── helpers.py            # Funciones auxiliares que se usan en múltiples partes del proyecto
+│   │   │   └── __init__.py
+│   │   └── config.py                 # Configuraciones generales (por ejemplo, claves de API)
+│   └── venv/                         # Entorno virtual para las dependencias de Python
+│
+├── data/                             # Archivos CSV (datos)
+│   ├── centros_compensatoria.csv     # Diferentes tipos de centros educativos
+│   ├── centros_dificil.csv
+│   ├── centros_educativos_ordenados.csv
+│   ├── centros_exportados.csv
+│   ├── centros_todos.csv
+│   └── coincidencias.csv
+│
+├── frontend/                         # Parte de la interfaz de usuario
+│   ├── index.html                    # Página principal HTML
+│   ├── css/                          # Archivos de estilos CSS
+│   │   └── style.css                 # Estilo de la aplicación web
+│   ├── js/                           # Archivos JavaScript para interacción del usuario
+│   │   └── main.js                   # Archivo principal que importa todas las funciones y llama a inicializarTabla().
+│   │   └── cofig.js                  # Contendrá configuraciones globales y constantes.
+│   │   └── filterService.js          # Contendrá toda la lógica relacionada con el filtrado de los datos.
+│   │   └── uiService.js              # Contendrá todas las funciones que manejan la manipulación del DOM y la visualización.
+│   │   └── apiService.js             # Encargado de la interacción con la API.
+
+│   └── assets/                       # Recursos estáticos adicionales
+│       ├── images/                   # Imágenes utilizadas en la interfaz
+│       └── fonts/                    # Fuentes si son necesarias
+│
+├── .env                              # Variables de entorno (por ejemplo, claves de API)
+├── .gitignore                        # Ignorar archivos innecesarios en Git (por ejemplo, venv, .env, archivos temporales)
+├── LICENSE                           # Licencia del proyecto
+├── README.md                         # Documentación sobre cómo configurar y usar la aplicación
+└── requirements.txt                  # Lista de dependencias de Python necesarias para ejecutar el proyecto

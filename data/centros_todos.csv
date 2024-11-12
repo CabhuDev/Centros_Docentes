@@ -1,0 +1,886 @@
+Provincia,codigo,Nombre Centro
+Almería,04000110C,I.E.S. Abdera
+Almería,04000134C,I.E.S. Gaviota
+Almería,04006045C,I.E.S. Mar Mediterráneo
+Almería,04700260C,I.E.S. Aguadulce
+Almería,04700673C,I.E.S. Carlos III
+Almería,04000250C,I.E.S. Cardenal Cisneros
+Almería,04005284C,I.E.S. Martín García Ramos
+Almería,04700259C,I.E.S. Cerro Milano
+Almería,04000699C,I.E.S. Alhamilla
+Almería,04001141C,I.E.S. Nicolás Salmerón Alonso
+Almería,04001151C,I.E.S. Celia Viñas
+Almería,04001163C,I.E.S. Alhadra
+Almería,04001187C,I.E.S. Los Ángeles
+Almería,04001205C,C.P.I.F.P. Almeraya
+Almería,04001242C,E.A.S.D. Carlos Pérez Siquier
+Almería,04004620C,I.E.S. Al-Ándalus (CdA)
+Almería,04004802C,I.E.S. Alborán - Manuel Cáliz
+Almería,04004814C,I.E.S. El Argar
+Almería,04005958C,I.E.S. Albaida
+Almería,04700156C,I.E.S. Bahía de Almería
+Almería,04700442C,I.E.S. Azcona
+Almería,04700454C,I.E.S. Maestro Padilla
+Almería,04700466C,I.E.S. Cruz de Caravaca
+Almería,04700651C,I.P.E.P. Almería
+Almería,04000766C,I.E.S. Azahar
+Almería,04700533C,I.E.S. Mar Azul
+Almería,04700545C,I.E.S. Aurantia
+Almería,04001825C,I.E.S. Sierra de Gádor
+Almería,04008315C,I.E.S. Villavieja
+Almería,04700132C,I.E.S. Campos de Níjar
+Almería,04005533C,I.E.S. Valle de Andarax
+Almería,04001931C,I.E.S. Valle del Almanzora
+Almería,04700053C,I.E.S. Juan Goytisolo
+Almería,04002052C,I.E.S. Jaroso
+Almería,04700557C,I.E.S. Ciudad de Dalías
+Almería,04700521C,I.E.S. El Alquián
+Almería,04002313C,I.E.S. Santo Domingo
+Almería,04004826C,I.E.S. Murgi
+Almería,04006689C,I.E.S. Luz del Mar
+Almería,04700272C,I.E.S. Fuente Nueva
+Almería,04700481C,I.E.S. Pablo Ruiz Picasso
+Almería,04000331C,I.E.S. El Parador
+Almería,04002532C,I.E.S. Sierra Nevada
+Almería,04700569C,I.E.S. Gádor-Francisco Javier Román
+Almería,04001497C,I.E.S. Mediterráneo
+Almería,04010954C,S.E.S.O. del I.E.S. Carmen de Burgos (CdA)
+Almería,04700570C,I.E.S. Carmen de Burgos (CdA)
+Almería,04002714C,I.E.S. Cura Valera
+Almería,04005363C,I.E.S. Al-Bujaira
+Almería,04700107C,I.E.S. Sol de Portocarrero
+Almería,04700624C,I.E.S. Villa de Vícar
+Almería,04700363C,I.E.S. La Mojonera
+Almería,04000341C,I.E.S. Las Marinas
+Almería,04011594C,S.E.S.O. del I.E.S. Las Marinas
+Almería,04700582C,I.E.S. Emilio Manzano
+Almería,04003135C,I.E.S. Juan Rubio Ortiz
+Almería,04700090C,I.E.S. Rey Alabez
+Almería,04700594C,I.E.S. Villa de Níjar
+Almería,04003457C,I.E.S. Rosa Navarro
+Almería,04700600C,I.E.S. Puerta de Pechina
+Almería,04700144C,I.E.S. La Puebla
+Almería,04700341C,I.E.S. Mar Serena
+Almería,04700612C,I.E.S. Entresierras
+Almería,04009393C,I.E.S. Retamar
+Almería,04004966C,I.E.S. Sabinar
+Almería,04010981C,S.E.S.O. del I.E.S. Turaniana
+Almería,04700016C,I.E.S. Turaniana
+Almería,04700648C,I.E.S. Algazul
+Almería,04000122C,I.E.S. San Isidro
+Almería,04700399C,I.E.S. Sierra de los Filabres
+Almería,04700417C,I.E.S. Río Aguas
+Almería,04700429C,I.E.S. Manuel de Góngora
+Almería,04700351C,I.E.S. Alto Almanzora
+Almería,04700491C,I.E.S. Velad Al Hamar
+Almería,04700508C,I.E.S. José Marín
+Almería,04004437C,I.E.S. Alyanub
+Almería,04004978C,I.E.S. El Palmeral
+Almería,04700636C,I.E.S. Torreserena
+Cádiz,11700305C,I.E.S. Pedro Sáinz de Andino
+Cádiz,11700470C,I.E.S. Fuente Grande (CdA)
+Cádiz,11000231C,I.E.S. Bahía de Algeciras
+Cádiz,11000368C,I.E.S. Isla Verde
+Cádiz,11000371C,I.E.S. Kursaal
+Cádiz,11000381C,I.E.S. Ventura Morón
+Cádiz,11000447C,E.A. Algeciras
+Cádiz,11008495C,I.E.S. Torre Almirante
+Cádiz,11700135C,I.E.S. Levante
+Cádiz,11700342C,I.E.S. El Getares
+Cádiz,11700913C,I.E.S. Las Palomas
+Cádiz,11701085C,I.E.S. Baelo Claudia
+Cádiz,11701206C,S.I.P.E.P. Entre dos aguas
+Cádiz,11006668C,I.E.S. Fuente Alta
+Cádiz,11000711C,I.E.S. Alminares
+Cádiz,11009293C,I.E.S. Los Cabezuelos
+Cádiz,11700937C,I.E.S. Guadalpeña
+Cádiz,11000824C,I.E.S. Trafalgar
+Cádiz,11700949C,I.E.S. Vicente Aleixandre
+Cádiz,11700421C,I.E.S. Casas Viejas
+Cádiz,11700755C,I.E.S. El Convento
+Cádiz,11001762C,I.E.S. Columela
+Cádiz,11001828C,I.E.S. Rafael Alberti
+Cádiz,11001932C,E.A.S.D. de las Cortes, nº 3
+Cádiz,11004556C,I.E.S. Cornelio Balbo
+Cádiz,11006486C,I.E.S. Fuerte de Cortadura
+Cádiz,11008501C,I.E.S. Fernando Aguilar Quignon
+Cádiz,11700287C,I.E.S. La Caleta
+Cádiz,11700299C,I.P.E.P. Cádiz
+Cádiz,11700317C,I.E.S. San Severiano
+Cádiz,11700688C,I.E.S. Almoraima
+Cádiz,11700950C,I.E.S. Poeta García Gutiérrez
+Cádiz,11002213C,I.E.S. Pablo Ruiz Picasso
+Cádiz,11007582C,I.E.S. Huerta del Rosario
+Cádiz,11700123C,I.E.S. Ciudad de Hércules
+Cádiz,11700354C,I.E.S. La Pedrera Blanca
+Cádiz,11700883C,I.E.S. Fernando Quiñones
+Cádiz,11700962C,I.E.S. Caepionis
+Cádiz,11004131C,I.E.S. Salmedina
+Cádiz,11008471C,I.E.S. Los Molinos
+Cádiz,11001661C,I.E.S. La Atalaya
+Cádiz,11008461C,I.E.S. Valdelagrana
+Cádiz,11001919C,I.E.S. Francisco Javier de Uriarte
+Cádiz,11002079C,I.E.S. Pedro Muñoz Seca
+Cádiz,11004416C,I.E.S. Mar de Cádiz
+Cádiz,11004428C,I.E.S. Santo Domingo
+Cádiz,11008525C,I.E.S. José Luis Tejada Peluffo
+Cádiz,11700445C,I.E.S. Pintor Juan Lara
+Cádiz,11700603C,I.E.S. La Arboleda
+Cádiz,11700810C,I.E.S. Antonio de la Torre
+Cádiz,11700822C,I.E.S. Las Banderas
+Cádiz,11700986C,I.E.S. Castillo de Fatetar
+Cádiz,11700998C,I.E.S. Sierra de Grazalema
+Cádiz,11701000C,I.E.S. La Campiña
+Cádiz,11701012C,I.E.S. Sierra Almenara
+Cádiz,11001890C,I.E.S. Fernando Savater
+Cádiz,11003205C,I.E.S. Padre Luis Coloma
+Cádiz,11003217C,I.E.S. Alvar Núñez
+Cádiz,11003230C,I.E.S. La Granja
+Cádiz,11003382C,E.A.S.D. Jerez
+Cádiz,11007387C,I.E.S. Asta Regia
+Cádiz,11008483C,I.E.S. José M. Caballero Bonald
+Cádiz,11008513C,I.E.S. Andrés Benítez
+Cádiz,11012267C,I.E.S. Elena García Armada
+Cádiz,11700160C,I.E.S. Almunia
+Cádiz,11700172C,I.E.S. Santa Isabel de Hungría
+Cádiz,11700767C,I.E.S. Seritium
+Cádiz,11701115C,I.E.S. San Telmo (CdA)
+Cádiz,11701127C,I.E.S. Dra. Josefa de los Reyes
+Cádiz,11701139C,I.E.S. Lola Flores
+Cádiz,11701140C,I.E.S. Sofía
+Cádiz,11700184C,I.E.S. Hozgarganta
+Cádiz,11700482C,I.E.S. Vega de Guadalete
+Cádiz,11003862C,I.E.S. Tolosa
+Cádiz,11003874C,I.E.S. Mediterráneo
+Cádiz,11003886C,I.E.S. Virgen de la Esperanza
+Cádiz,11003916C,I.E.S. Mar de Poniente
+Cádiz,11000289C,I.E.S. Carlos Cano
+Cádiz,11700561C,I.E.S. Sierra Luna
+Cádiz,11004039C,I.E.S. Sidón
+Cádiz,11007910C,I.E.S. San Juan de Dios
+Cádiz,11000630C,I.E.S. Sierra de Líjar
+Cádiz,11006671C,I.E.S. Zaframagón
+Cádiz,11700780C,I.E.S. Paterna
+Cádiz,11700500C,I.E.S. Carlos III
+Cádiz,11004672C,I.E.S. Manuel de Falla
+Cádiz,11004696C,I.E.S. Virgen del Carmen
+Cádiz,11700433C,I.E.S. Profesor Antonio Muro
+Cádiz,11700718C,I.E.S. La Jarcia
+Cádiz,11700640C,I.E.S. Vía Verde
+Cádiz,11701231C,I.E.S. La Algaida
+Cádiz,11701036C,I.E.S. Roche
+Cádiz,11004866C,I.E.S. Castillo de Luna
+Cádiz,11007533C,I.E.S. Arroyo Hondo
+Cádiz,11701164C,I.E.S. Astaroth
+Cádiz,11002651C,I.E.S. Botánico
+Cádiz,11005241C,I.E.S. Isla de León
+Cádiz,11005275C,I.E.S. Las Salinas
+Cádiz,11005287C,I.E.S. Wenceslao Benítez
+Cádiz,11008239C,I.E.S. Sancti Petri
+Cádiz,11009487C,C.P.I.F.P. Marítimo Zaporito
+Cádiz,11700147C,I.E.S. La Bahía
+Cádiz,11700512C,I.E.S. Jorge Juan
+Cádiz,11700721C,I.E.S. Blas Infante
+Cádiz,11701048C,I.E.S. Castillo de Tempul
+Cádiz,11700779C,I.E.S. Azahar
+Cádiz,11005743C,I.E.S. Escuela de Hostelería San Roque
+Cádiz,11005755C,I.E.S. José Cadalso
+Cádiz,11007791C,I.E.S. Carlos Castilla del Pino
+Cádiz,11005551C,I.E.S. Francisco Pacheco
+Cádiz,11005639C,I.E.S. Doñana
+Cádiz,11007685C,I.E.S. El Picacho
+Cádiz,11700196C,I.E.S. Cristóbal Colón
+Cádiz,11700615C,I.E.S. Juan Sebastián Elcano
+Cádiz,11700871C,I.E.S. Botánico
+Cádiz,11701188C,I.E.S. San Lucas
+Cádiz,11701051C,I.E.S. Villa de Setenil
+Cádiz,11701061C,I.E.S. Mar del Sur
+Cádiz,11700585C,I.E.S. Almadraba
+Cádiz,11700731C,I.E.S. Baelo Claudia
+Córdoba,11700159C,I.E.S. Alventus
+Cádiz,11006681C,I.E.S. Ntra. Sra. de los Remedios
+Cádiz,11006693C,I.E.S. Las Cumbres
+Cádiz,11700858C,I.E.S. Maestro Francisco Fatou
+Cádiz,11700597C,I.E.S. La Janda
+Cádiz,11007545C,I.E.S. Castillo de Matrera
+Cádiz,11700743C,I.E.S. La Loma
+Córdoba,14700471C,I.E.S. Luna de la Sierra
+Córdoba,14002029C,I.E.S. Ipagro
+Córdoba,14700390C,I.E.S. Vicente Núñez
+Córdoba,14700481C,I.E.S. Puente de Alcolea
+Córdoba,14008068C,I.E.S. Cárbula
+Córdoba,14000483C,I.E.S. Luis Carrillo de Sotomayor
+Córdoba,14700729C,I.E.S. Juan de Soto Alvarado
+Córdoba,14700493C,I.E.S. José Alcántara (CdA)
+Córdoba,14700501C,I.E.S. Don Diego de Bernuy
+Córdoba,14000689C,I.E.S. Mario López
+Córdoba,14000501C,I.E.S. Dionisio Alcalá Galiano
+Córdoba,14000835C,I.E.S. Felipe Solís Villechenous
+Córdoba,14000847C,I.E.S. Aguilar y Eslava
+Córdoba,14700511C,I.E.S. Virgen del Campo
+Córdoba,14700717C,I.E.S. Ategua
+Córdoba,14000707C,I.E.S. El Tablero
+Córdoba,14002261C,I.E.S. Rafael de la Hoz
+Córdoba,14002923C,I.E.S. Maimónides
+Córdoba,14002960C,I.E.S. Luis de Góngora
+Córdoba,14002972C,I.E.S. Séneca
+Córdoba,14002984C,I.E.S. Averroes
+Córdoba,14002996C,I.E.S. López Neyra
+Córdoba,14003198C,E.A.S.D. Mateo Inurria
+Córdoba,14004555C,I.E.S. Casiana Muñoz Tuñón
+Córdoba,14004889C,I.E.S. Zoco
+Córdoba,14007180C,I.E.S. Blas Infante
+Córdoba,14007374C,I.E.S. La Fuensanta
+Córdoba,14007647C,E.A. Dionisio Ortiz
+Córdoba,14007659C,I.E.S. Galileo Galilei
+Córdoba,14007945C,I.E.S. Trassierra
+Córdoba,14008056C,I.E.S. San Álvaro
+Córdoba,14700018C,I.P.E.P. Córdoba
+Córdoba,14700067C,I.E.S. Alhaken II
+Córdoba,14700079C,I.E.S. Gran Capitán
+Córdoba,14700146C,I.E.S. Fidiana
+Córdoba,14700161C,I.E.S. Medina Azahara
+Córdoba,14700286C,I.E.S. Ángel de Saavedra
+Córdoba,14700535C,I.E.S. Santa Rosa de Lima
+Córdoba,14700559C,I.E.S. Santa Catalina de Siena
+Córdoba,14700730C,I.E.S. Grupo Cántico
+Córdoba,14700560C,I.E.S. Mencía López de Haro
+Córdoba,14700572C,I.E.S. San Roque
+Córdoba,14700523C,I.E.S. Garci Méndez
+Córdoba,14700675C,I.E.S. Cecilio Jiménez
+Córdoba,14700742C,I.E.S. Pay Arias
+Córdoba,14003551C,I.E.S. Francisco de los Ríos
+Córdoba,14700365C,I.E.S. Miguel Crespo
+Córdoba,14003708C,I.E.S. Lope de Vega
+Córdoba,14700304C,I.E.S. Colonial
+Córdoba,14004099C,I.E.S. Jerez y Caballero (CdA)
+Córdoba,14004105C,I.E.S. Padre Juan Ruiz
+Córdoba,14700353C,I.E.S. Duque de Rivas
+Córdoba,14700584C,I.E.S. Mirador del Genil
+Córdoba,14000321C,I.E.S. El Sauce
+Córdoba,14700298C,I.E.S. Nuevas Poblaciones
+Córdoba,14006345C,I.E.S. Profesor Tierno Galván
+Córdoba,14000331C,I.E.S. Clara Campoamor
+Córdoba,14004580C,I.E.S. Marqués de Comares
+Córdoba,14005882C,I.E.S. Sierra de Aras
+Córdoba,14007404C,I.E.S. Juan de Aréjula
+Córdoba,14700420C,I.E.S. Miguel de Cervantes
+Córdoba,14700602C,I.E.S. Albenzaide
+Córdoba,14700781C,I.E.S. Maestro Eloy Vaquero
+Córdoba,14700614C,I.E.S. Ulia Fidentia
+Córdoba,14004828C,I.E.S. Emilio Canalejo Olmeda
+Córdoba,14004841C,I.E.S. Inca Garcilaso
+Córdoba,14004971C,I.E.S. Antonio Galán Acosta
+Córdoba,14004981C,I.E.S. Santos Isasa
+Córdoba,14700626C,I.E.S. Las Viñas
+Córdoba,14700638C,I.E.S. Cumbres Altas
+Córdoba,14005298C,I.E.S. Antonio Gala
+Córdoba,14700641C,I.E.S. Sácilis (CdA)
+Córdoba,14005493C,I.E.S. Florencio Pintado
+Córdoba,14005501C,I.E.S. Alto Guadiato
+Córdoba,14005560C,I.E.S. Aljanadic
+Córdoba,14005663C,I.E.S. Los Pedroches
+Córdoba,14007684C,I.E.S. Antonio María Calero
+Córdoba,14700651C,I.E.S. Ricardo Delgado Vizcaíno
+Córdoba,14005912C,I.E.S. Fernando III El Santo
+Córdoba,14005936C,I.E.S. Álvarez Cubero
+Córdoba,14700377C,I.E.S. Carmen Pantión
+Córdoba,14000021C,I.E.S. Profesor Andrés Bojollo
+Córdoba,14006217C,I.E.S. Manuel Reina
+Córdoba,14007350C,I.E.S. Ingeniero Juan de la Cierva
+Córdoba,14700663C,I.E.S. Fuente Álamo
+Córdoba,14700468C,I.E.S. Nuevo Scala
+Córdoba,14006576C,I.E.S. Arcelacis
+Córdoba,14700444C,I.E.S. Nuestra Señora de la Estrella
+Córdoba,14700432C,I.E.S. La Soledad
+Córdoba,14700316C,I.E.S. La Jara
+Córdoba,14000343C,I.E.S. Villarrubia
+Córdoba,14700419C,I.E.S. La Escribana
+Granada,18000039C,I.E.S. Aricel
+Granada,18004781C,S.E.S.O. del IES Aricel
+Granada,18700347C,I.E.S. La Contraviesa
+Granada,18000738C,I.E.S. Al-Fakar
+Granada,18700451C,I.E.S. Alhama
+Granada,18000842C,I.E.S. Alhendín
+Granada,18000601C,I.E.S. Antigua Sexi
+Granada,18700463C,I.E.S. Al-Ándalus
+Granada,18700499C,I.E.S. Puerta del Mar
+Granada,18700736C,I.E.S. Marquesado del Zenete
+Granada,18000787C,I.E.S. Luis Bueno Crespo
+Granada,18700232C,I.E.S. Alba Longa
+Granada,18000908C,I.E.S. Iliberis
+Granada,18009407C,I.E.S. Vega de Atarfe
+Granada,18000854C,I.E.S. Los Cahorros
+Granada,18001123C,I.E.S. Pedro Jiménez Montoya
+Granada,18001147C,I.E.S. José de Mora
+Granada,18700359C,I.E.S. Alcrebite
+Granada,18700591C,I.E.S. Benalúa
+Granada,18700608C,I.E.S. Avenmoriel
+Granada,18700670C,I.E.S. Al-Cadí
+Granada,18700517C,I.E.S. El Fuerte
+Granada,18700581C,I.E.S. Sayena
+Granada,18700360C,I.E.S. Arjé
+Granada,18002243C,I.E.S. Federico García Lorca
+Granada,18001834C,I.E.S. Emilio Muñoz
+Granada,18700529C,I.E.S. Gregorio Salvador
+Granada,18003004C,I.E.S. Arabuleila
+Granada,18009419C,I.E.S. Valle de Lecrín
+Granada,18009778C,I.E.S. Alonso Cano
+Granada,18700372C,I.E.S. Montevives
+Granada,18004264C,I.E.S. Padre Suárez
+Granada,18004276C,I.E.S. Ángel Ganivet
+Granada,18004288C,I.E.S. Politécnico Hermenegildo Lanz
+Granada,18004291C,I.E.S. Padre Manjón
+Granada,18004355C,C.P.I.F.P. Hurtado de Mendoza
+Granada,18004458C,I.E.S. Virgen de las Nieves
+Granada,18004501C,E.A.S.D. José Val del Omar
+Granada,18008841C,I.E.S. Cartuja
+Granada,18009195C,I.E.S. Mariana Pineda
+Granada,18009249C,I.E.S. Severo Ochoa
+Granada,18009377C,C.P.I.F.P. Aynadamar
+Granada,18009389C,I.E.S. Albayzín
+Granada,18010185C,I.E.S. Alhambra
+Granada,18010446C,I.E.S. Generalife
+Granada,18111111C,I.P.E.P. Granada
+Granada,18700013C,I.E.S. Fray Luis de Granada
+Granada,18700037C,I.E.S. Pedro Soto de Rojas
+Granada,18700098C,I.E.S. Zaidín-Vergeles
+Granada,18700293C,I.E.S. Francisco Ayala
+Granada,18700311C,I.E.S. La Madraza
+Granada,18700441C,I.E.S. Miguel de Cervantes
+Granada,18004793C,I.E.S. Pedro Antonio de Alarcón
+Granada,18004801C,I.E.S. Padre Poveda
+Granada,18004823C,E.A. de la Catedral, 4
+Granada,18009213C,I.E.S. Acci
+Granada,18005131C,E.A. Huéscar
+Granada,18005141C,I.E.S. La Sagra
+Granada,18005153C,I.E.S. Alquivira
+Granada,18700301C,I.E.S. Américo Castro
+Granada,18009201C,I.E.S. Los Neveros (CdA)
+Granada,18700773C,I.E.S. Diego de Siloé
+Granada,18700554C,I.E.S. Villanueva del Mar
+Granada,18700645C,I.E.S. El Temple
+Granada,18001081C,I.E.S. Laurel de la Reina
+Granada,18700244C,I.E.S. Trevenque
+Granada,18700633C,I.E.S. Lanjarón
+Granada,18005980C,I.E.S. Virgen de la Caridad
+Granada,18005992C,I.E.S. Moraima
+Granada,18700414C,I.E.S. Alfaguara
+Granada,18009109C,I.E.S. NUEVO
+Granada,18700657C,I.E.S. Manuel de Falla
+Granada,18700669C,I.E.S. Montejícar
+Granada,18005220C,I.E.S. Manuel Cañadas
+Granada,18007022C,I.E.S. La Zafra
+Granada,18007046C,I.E.S. Francisco Javier de Burgos
+Granada,18007058C,I.E.S. Julio Rodríguez
+Granada,18007083C,E.A. Palacio Ventura
+Granada,18700049C,I.E.S. José Martín Recuerda
+Granada,18700323C,I.E.S. Beatriz Galindo La Latina
+Granada,18700426C,I.E.S. Francisco Giner de los Ríos
+Granada,18700803C,I.E.S. Blas Infante
+Granada,18700761C,I.E.S. Alpujarra
+Granada,18700724C,I.E.S. La Laguna
+Granada,18000891C,I.E.S. Clara Campoamor
+Granada,18700682C,I.E.S. Sulayr (CdA)
+Granada,18700694C,I.E.S. Bulyana
+Granada,18700700C,I.E.S. Ribera del Fardes
+Huelva,18000519C,I.E.S. Nazarí
+Huelva,18009961C,I.E.S. Mediterráneo
+Huelva,18008257C,I.E.S. Jiménez de Quesada
+Huelva,18009444C,I.E.S. Hispanidad
+Huelva,18008464C,I.E.S. Ulyssea
+Huelva,18004148C,I.E.S. Escultor Sánchez Mesa
+Huelva,18700712C,I.E.S. Al-Zujáyr
+Huelva,21700526C,I.E.S. Fuente Juncal
+Huelva,21700642C,I.E.S. La Ribera
+Huelva,21700654C,I.E.S. Doñana
+Huelva,21000310C,I.E.S. La Alborá
+Huelva,21700381C,I.E.S. San Blas
+Huelva,21700538C,I.E.S. Turóbriga
+Huelva,21700496C,I.E.S. González de Aguilar
+Huelva,21700502C,I.E.S. Guadiana
+Huelva,21700541C,I.E.S. La Campiña
+Huelva,21000693C,I.E.S. Delgado Hernández
+Huelva,21700423C,I.E.S. San Antonio
+Huelva,21700061C,I.E.S. Catedrático Pulido Rubio
+Huelva,21003323C,I.E.S. Diego Macías
+Huelva,21000899C,I.E.S. Rafael Reyes
+Huelva,21700435C,I.E.S. Mapi Valle
+Huelva,21700551C,I.E.S. Juan Antonio Pérez Mercader
+Huelva,21001028C,I.E.S. San José
+Huelva,21700447C,I.E.S. José M. Morón y Barrientos
+Huelva,21700034C,I.E.S. Odiel
+Huelva,21700563C,I.E.S. El Valle
+Huelva,21001892C,I.E.S. La Rábida
+Huelva,21001909C,I.E.S. Diego de Guzmán y Quesada
+Huelva,21001910C,I.E.S. Alonso Sánchez
+Huelva,21001922C,I.E.S. Pintor Pedro Gómez
+Huelva,21001995C,I.E.S. Alto Conquero
+Huelva,21003301C,I.E.S. La Orden
+Huelva,21003712C,I.E.S. Fuentepiña
+Huelva,21003980C,I.E.S. José Caballero
+Huelva,21004145C,E.A.S.D. León Ortega
+Huelva,21700010C,I.E.S. San Sebastián
+Huelva,21700046C,I.P.E.P. Huelva
+Huelva,21700058C,I.E.S. Pablo Neruda
+Huelva,21700356C,I.E.S. Estuaria
+Huelva,21700393C,I.E.S. Clara Campoamor
+Huelva,21002100C,I.E.S. Padre José Miravent
+Huelva,21700575C,I.E.S. Galeón
+Huelva,21700587C,I.E.S. San Miguel
+Huelva,21700460C,I.E.S. La Palma
+Huelva,21700411C,I.E.S. José Antonio Fernández Muriel
+Huelva,21700630C,I.E.S. La Arboleda
+Huelva,21002975C,I.E.S. Odón Betanzos Palacios
+Huelva,21700290C,I.E.S. Cuenca Minera
+Huelva,21004169C,I.E.S. Juan Ramón Jiménez
+Huelva,21700368C,I.E.S. Francisco Garfias
+Huelva,21002483C,I.E.S. Vázquez Díaz
+Huelva,21700459C,I.E.S. Alfonso Romero Barcojo
+Huelva,21002628C,C.P.I.F.P. Profesor José Luis Graíño
+Huelva,21003128C,I.E.S. Carabelas
+Huelva,21700204C,I.E.S. Campo de Tejada
+Huelva,21003736C,I.E.S. del Andévalo
+Huelva,21003074C,I.E.S. Bitácora
+Huelva,21700307C,I.E.S. Saltés
+Jaén,21700599C,I.E.S. Virgen del Socorro
+Huelva,21700514C,I.E.S. Puerta del Andévalo
+Huelva,21700371C,I.E.S. Diego Rodríguez Estrada
+Huelva,21700319C,I.E.S. Puerta de Andalucía
+Huelva,21700401C,I.E.S. Dolmen de Soto
+Huelva,21002951C,I.E.S. Don Bosco
+Huelva,21003165C,I.E.S. Diego Angulo
+Huelva,21700605C,I.E.S. Alcor
+Huelva,21700617C,I.E.S. Tres Molinos
+Huelva,21700629C,I.E.S. Nuevo Milenio
+Jaén,23000106C,I.E.S. Alfonso XI
+Jaén,23700542C,I.E.S. Antonio de Mendoza
+Jaén,23000246C,I.E.S. Salvador Serrano
+Jaén,23000131C,I.E.S. Sierra Morena
+Jaén,23000556C,I.E.S. Nuestra Señora de la Cabeza
+Jaén,23005694C,I.E.S. Jándula
+Jaén,23000261C,I.E.S. Ciudad de Arjona
+Jaén,23700591C,I.E.S. Juan del Villar
+Jaén,23700608C,I.E.S. Fuentebuena
+Jaén,23000817C,I.E.S. Santísima Trinidad
+Jaén,23000830C,I.E.S. Andrés de Vandelvira
+Jaén,23000842C,E.A. Gaspar Becerra
+Jaén,23000143C,I.E.S. Hermanos Medina Rivilla
+Jaén,23700840C,I.E.S. María Bellido
+Jaén,23700611C,I.E.S. Bury Al-Hamma
+Jaén,23700581C,I.E.S. Sierra de Segura
+Jaén,23700621C,I.E.S. Accabe
+Jaén,23700633C,I.E.S. Vera Cruz
+Jaén,23700256C,I.E.S. Puerta de Arenas
+Jaén,23700645C,I.E.S. Colegiata de Santiago
+Jaén,23700657C,I.E.S. Pablo Rueda
+Jaén,23001111C,I.E.S. Castillo de la Yedra
+Jaén,23700268C,I.E.S. El Yelmo
+Jaén,23700669C,I.E.S. Fuente de la Negra
+Jaén,23700670C,I.E.S. Río de los Granados
+Jaén,23004926C,I.E.S. Sierra Mágina
+Jaén,23700682C,I.E.S. Picos del Guadiana
+Jaén,23700694C,I.E.S. Pedro Pablo López de los Arcos
+Jaén,23700700C,I.E.S. Mateo Francisco de Rivas
+Jaén,23002401C,I.E.S. Virgen del Carmen
+Jaén,23002413C,I.E.S. Santa Catalina de Alejandría
+Jaén,23002449C,I.E.S. Las Fuentezuelas
+Jaén,23002462C,E.A.S.D. José Nogué
+Jaén,23002474C,I.E.S. Jabalcuz
+Jaén,23005062C,I.E.S. Auringis
+Jaén,23005529C,I.E.S. San Juan Bosco
+Jaén,23005906C,I.E.S. Fuente de la Peña
+Jaén,23600021C,I.P.E.P. Jaén
+Jaén,23700271C,I.E.S. El Valle
+Jaén,23700827C,I.E.S. Az-Zait
+Jaén,23700839C,I.E.S. Santa Teresa
+Jaén,23700724C,I.E.S. Sierra de la Grana
+Jaén,23004240C,I.E.S. Juan López Morillas
+Jaén,23001287C,I.E.S. Martín Halaja
+Jaén,23005049C,I.E.S. Pablo de Olavide
+Jaén,23700554C,I.E.S. Juan Pérez Creus
+Jaén,23000210C,I.E.S. Puerta de la Sierra
+Jaén,23002841C,I.E.S. Huarte de San Juan
+Jaén,23002851C,I.E.S. Reyes de España
+Jaén,23005141C,I.E.S. Cástulo
+Jaén,23005979C,I.E.S. Himilce (CdA)
+Jaén,23700281C,I.E.S. Oretania
+Jaén,23700396C,S.I.P.E.P. Fanny Rubio
+Jaén,23700888C,I.E.S. Santa Engracia (CdA)
+Jaén,23700748C,I.E.S. Gamonares
+Jaén,23700220C,I.E.S. La Pandera
+Jaén,23005074C,I.E.S. Peña del Águila
+Jaén,23005153C,I.E.S. Sierra Mágina
+Jaén,23700293C,I.E.S. Virgen de la Cabeza
+Jaén,23003119C,I.E.S. Fernando III
+Jaén,23003132C,I.E.S. San Felipe Neri
+Jaén,23700301C,I.E.S. María Cabeza Arellano Martínez
+Jaén,23700578C,I.E.S. San Juan Bautista
+Jaén,23700751C,I.E.S. Gandhi
+Jaén,23700487C,I.E.S. Almicerán
+Jaén,23700761C,I.E.S. Alhajar
+Jaén,23700852C,I.E.S. Ntra. Sra. de Alharilla
+Jaén,23005372C,I.E.S. Guadalentín
+Jaén,23700773C,I.E.S. Valle del Guadalimar
+Jaén,23700426C,I.E.S. Cañada de las Fuentes
+Jaén,23700785C,I.E.S. Ruradia
+Jaén,23700797C,I.E.S. Iulia Salaria
+Jaén,23700414C,I.E.S. Villa de Santiago
+Jaén,23700566C,I.E.S. Virgen del Collado
+Jaén,23700323C,I.E.S. Doctor Francisco Marín
+Jaén,23000180C,I.E.S. Torre Olvidada
+Jaén,23003934C,I.E.S. Miguel Sánchez López
+Jaén,23003983C,I.E.S. Santo Reino
+Jaén,23700335C,I.E.S. Acebuche
+Jaén,23700244C,I.E.S. Gil de Zático
+Jaén,23004252C,I.E.S. San Juan de la Cruz
+Jaén,23004264C,I.E.S. Los Cerros
+Jaén,23004276C,E.A. Casa de las Torres
+Jaén,23006029C,I.E.S. Francisco de los Cobos (CdA)
+Jaén,23700347C,I.E.S. Sierra Sur
+Jaén,23700359C,I.E.S. Abula
+Jaén,23700864C,I.E.S. Sierra de las Villas
+Jaén,23700803C,I.E.S. Juan de Barrionuevo Moya
+Jaén,23700499C,I.E.S. Nieves López Pastor
+Jaén,23700815C,I.E.S. Llano de la Viña
+Málaga,29701209C,I.E.S. Jacobo Orellana Garrido
+Málaga,29700680C,I.E.S. Trayamar
+Málaga,29000311C,I.E.S. Valle del Genal
+Málaga,29000062C,I.E.S. Capellanía
+Málaga,29008802C,I.E.S. Galileo
+Málaga,29700114C,I.E.S. Gerald Brenan
+Málaga,29701210C,I.E.S. Huerta Alta
+Málaga,29000529C,I.E.S. Antonio Gala
+Málaga,29700692C,I.E.S. Fuente Lucena
+Málaga,29700989C,I.E.S. Diego Gaitán
+Málaga,29000694C,I.E.S. Las Flores
+Málaga,29011229C,I.E.S. Valle del Sol
+Málaga,29700618C,I.E.S. Serranía (CdA)
+Málaga,29001145C,I.E.S. Pedro Espinosa
+Málaga,29010857C,I.E.S. Pintor José María Fernández
+Málaga,29012052C,I.E.S. Los Colegiales
+Málaga,29001421C,I.E.S. Luis Barahona de Soto
+Málaga,29010869C,I.E.S. José Navarro y Alba
+Málaga,29700606C,I.E.S. Escultor Marín Higuero
+Málaga,29006945C,I.E.S. Benalmádena
+Málaga,29009892C,I.E.S. Al-Baytar
+Málaga,29012064C,I.E.S. Arroyo de la Miel
+Málaga,29700621C,I.E.S. Cerro del Viento
+Málaga,29701222C,I.E.S. Poetas Andaluces
+Málaga,29011953C,I.E.S. La Maroma
+Málaga,29020231C,C.P.I.F.P. Alan Turing
+Málaga,29700011C,I.E.S. Campanillas
+Málaga,29700990C,I.E.S. María Victoria Atencia
+Málaga,29701313C,I.E.S. Torre del Prado
+Málaga,29001868C,I.E.S. Camilo José Cela
+Málaga,29004080C,I.E.S. Profesor Tomás Hormigo
+Málaga,29700631C,I.E.S. Valle del Azahar
+Málaga,29701003C,I.E.S. Jarifa
+Málaga,29701015C,I.E.S. Casabermeja
+Málaga,29007147C,I.E.S. Carlos Álvarez
+Málaga,29700357C,I.E.S. Jacaranda
+Málaga,29002332C,I.E.S. Ciudad de Coín
+Málaga,29700928C,I.E.S. Los Montecillos
+Málaga,29700849C,I.E.S. Los Montes
+Málaga,29700941C,I.E.S. El Almijar
+Málaga,29011734C,I.E.S. Andrés Pérez Serrano
+Málaga,29701027C,I.E.S. Genil
+Málaga,29009107C,I.E.S. Cartima (CdA)
+Málaga,29002885C,I.E.S. Monterroso
+Málaga,29009119C,I.E.S. Puerta del Mar
+Málaga,29009909C,I.E.S. Mar de Alborán
+Málaga,29700953C,I.E.S. Mediterráneo
+Málaga,29003041C,I.E.S. Fuengirola Nº 1
+Málaga,29009910C,I.E.S. Santiago Ramón y Cajal
+Málaga,29011311C,I.E.S. Eduardo Janeiro
+Málaga,29700497C,I.E.S. Los Boliches
+Málaga,29701416C,I.E.S. Las Salinas
+Málaga,29701428C,I.E.S. Mercedes Labrador
+Málaga,29701039C,I.E.S. José Saramago
+Málaga,29002733C,I.E.S. Puerta de la Axarquía
+Málaga,29700369C,I.E.S. Ben Al Jatib
+Málaga,29007329C,I.E.S. Vega de Mijas
+Málaga,29019320C,I.E.S. Ana Carmona "Veleta"
+Málaga,29700709C,I.E.S. Las Lagunas
+Málaga,29005916C,I.E.S. La Rosaleda
+Málaga,29005928C,I.E.S. Nuestra Señora de la Victoria
+Málaga,29005953C,I.E.S. Vicente Espinel (CdA)
+Málaga,29005965C,I.E.S. Sierra Bermeja
+Málaga,29005977C,I.E.S. Cánovas del Castillo (CdA)
+Málaga,29005989C,I.E.S. Politécnico Jesús Marín
+Málaga,29006179C,E.A.S.D. San Telmo
+Málaga,29009260C,I.E.S. Emilio Prados
+Málaga,29009272C,I.E.S. Pablo Picasso
+Málaga,29009922C,I.E.S. El Palo
+Málaga,29009934C,I.E.S. Salvador Rueda
+Málaga,29010201C,I.E.S. Belén
+Málaga,29010365C,I.E.S. Profesor Isidoro Sánchez
+Málaga,29010870C,I.E.S. Mare Nostrum
+Málaga,29011539C,I.E.S. Huelin
+Málaga,29012076C,I.E.S. Ben Gabirol
+Málaga,29012106C,I.E.S. Miguel Romero Esteo
+Málaga,29016264C,I.E.S. Teatinos
+Málaga,29700047C,I.E.S. Martín de Aldehuela
+Málaga,29700060C,I.E.S. Mayorazgo
+Málaga,29700096C,I.E.S. Litoral
+Málaga,29700102C,I.E.S. Miraflores de los Ángeles
+Málaga,29700242C,I.E.S. Núm. 1. Universidad Laboral
+Málaga,29700333C,I.E.S. Santa Bárbara
+Málaga,29700400C,I.E.S. Puerto de la Torre
+Málaga,29700412C,I.E.S. Portada Alta
+Málaga,29700503C,I.E.S. Fernando de los Ríos
+Málaga,29700527C,I.E.S. Jardines de Puerta Oscura
+Málaga,29700746C,I.E.S. Mediterráneo
+Málaga,29700795C,I.E.S. Ciudad Jardín
+Málaga,29701040C,I.E.S. Isaac Albéniz
+Málaga,29701052C,I.E.S. Sagrado Corazón
+Málaga,29701064C,I.E.S. Torre Atalaya
+Málaga,29701076C,I.E.S. Juan Ramón Jiménez
+Málaga,29701088C,I.E.S. Jardín de Málaga
+Málaga,29701106C,I.E.S. Ciudad de Melilla
+Málaga,29701234C,I.E.S. José María Torrijos
+Málaga,29701246C,I.E.S. Manuel Alcántara
+Málaga,29701258C,I.E.S. Rafael Pérez Estrada
+Málaga,29701301C,I.P.E.P. Málaga
+Málaga,29701350C,I.E.S. Christine Picasso
+Málaga,29700722C,I.E.S. Las Viñas
+Málaga,29000335C,I.E.S. Bahía de Marbella
+Málaga,29006830C,I.E.S. Guadalpín
+Málaga,29006854C,I.E.S. Sierra Blanca
+Málaga,29007299C,I.E.S. Dunas de las Chapas
+Málaga,29017785C,I.E.S. Cilniana
+Málaga,29700126C,I.E.S. Río Verde
+Málaga,29700758C,I.E.S. Victoria Kent
+Málaga,29701325C,I.E.S. Profesor Pablo del Saz
+Málaga,29004109C,I.E.S. Torre Almenara
+Málaga,29700023C,I.E.S. Sierra de Mijas
+Málaga,29701121C,I.E.S. Villa de Mijas
+Málaga,29701431C,I.E.S. La Cala de Mijas
+Málaga,29701131C,I.E.S. Las Viñas
+Málaga,29007214C,I.E.S. Sierra Almijara
+Málaga,29007241C,I.E.S. El Chaparil
+Málaga,29004158C,I.E.S. Nueva Andalucía
+Málaga,29700761C,I.E.S. Alta Axarquía
+Málaga,29701261C,I.E.S. Fuente Luna
+Málaga,29700059C,I.E.S. Bezmiliana
+Málaga,29007962C,I.E.S. Martín Rivero
+Málaga,29007998C,I.E.S. Pérez de Guzmán
+Málaga,29700035C,I.E.S. Profesor Gonzalo Huesa
+Málaga,29700230C,I.E.S. Dr. Rodríguez Delgado
+Málaga,29010444C,I.E.S. Vega de Mar
+Málaga,29011540C,I.E.S. Salduba
+Málaga,29017013C,I.E.S. NUEVO
+Málaga,29700771C,I.E.S. Guadaiza
+Málaga,29701143C,I.E.S. Sierra de Yeguas (CdA)
+Málaga,29701337C,I.E.S. Itaba
+Málaga,29017839C,I.E.S. Margarita Salas
+Málaga,29008012C,I.E.S. Joaquín Lobato
+Málaga,29011552C,I.E.S. María Zambrano
+Málaga,29700345C,I.E.S. Miraya del Mar
+Málaga,29006568C,I.E.S. Los Manantiales
+Málaga,29008061C,I.E.S. Concha Méndez Cuesta
+Málaga,29700916C,I.E.S. Costa del Sol
+Málaga,29701349C,I.E.S. Playamar
+Málaga,29009958C,I.E.S. Jorge Guillén
+Málaga,29701155C,I.E.S. Alfaguar
+Málaga,29008671C,I.E.S. Reyes Católicos
+Málaga,29008681C,I.E.S. Juan de la Cierva
+Málaga,29700424C,I.E.S. Almenara
+Málaga,29701295C,I.E.S. Salvador Rueda
+Málaga,29701167C,I.E.S. Doña Salvadora Muñoz
+Málaga,29701179C,I.E.S. Manuel Romero
+Málaga,29701180C,I.E.S. Pintor José Hernández
+Málaga,29701192C,I.E.S. Sierra de San Jorge
+Málaga,29700931C,I.E.S. Alfaguara
+Sevilla,41000272C,I.E.S. Cristóbal de Monroy
+Sevilla,41000284C,I.E.S. Al-Guadaira
+Sevilla,41011014C,I.E.S. Profesor Tierno Galván
+Sevilla,41021627C,I.E.S. Hienipa
+Sevilla,41700105C,I.E.S. Albero
+Sevilla,41011002C,I.E.S. Ilipa Magna
+Sevilla,41701808C,I.E.S. Las Aceñas
+Sevilla,41017685C,I.E.S. Almensilla
+Sevilla,41000557C,I.E.S. Al-Ándalus
+Sevilla,41000569C,I.E.S. La Campiña
+Sevilla,41701559C,I.E.S. Europa
+Sevilla,41701641C,I.E.S. Olontigi
+Sevilla,41702175C,I.E.S. Aznalcóllar
+Sevilla,41701316C,I.E.S. Vadus Latus
+Sevilla,41701201C,I.E.S. Virgen del Rosario
+Sevilla,41701730C,I.E.S. Alminar
+Sevilla,41011464C,I.E.S. Juan Ciudad Duarte
+Sevilla,41701821C,I.E.S. Los Álamos
+Sevilla,41700853C,I.E.S. Jacarandá
+Sevilla,41700971C,I.E.S. Burguillos
+Sevilla,41000880C,I.E.S. Tartessos
+Sevilla,41009573C,I.E.S. Camas-Antonio Brisquet
+Sevilla,41701158C,I.E.S. Cantillana
+Sevilla,41702141C,I.E.S. Cañada Rosal
+Sevilla,41001094C,I.E.S. Maese Rodrigo
+Sevilla,41009585C,I.E.S. Arrabal
+Sevilla,41702266C,I.E.S. Manuel Losada Villasante
+Sevilla,41701501C,I.E.S. Atalaya
+Sevilla,41701833C,I.E.S. Castilblanco de los Arroyos
+Sevilla,41023326C,I.E.S. Dama de Marfil
+Sevilla,41011026C,I.E.S. Alixar
+Sevilla,41701328C,I.E.S. Pablo Neruda
+Sevilla,41700865C,I.E.S. El Carmen
+Sevilla,41702072C,I.E.S. San Fernando
+Sevilla,41001461C,I.E.S. Rodrigo Caro
+Sevilla,41001471C,I.E.S. Caura
+Sevilla,41701596C,I.E.S. San José
+Sevilla,41001513C,I.E.S. María Galiana
+Sevilla,41001707C,I.E.S. Virgen de Valme
+Sevilla,41001719C,C.P.I.F.P. El Arenal
+Sevilla,41011038C,I.E.S. Gonzalo Nazareno
+Sevilla,41011491C,I.E.S. Galileo Galilei
+Sevilla,41700181C,I.E.S. Hermanos Machado
+Sevilla,41700877C,I.E.S. Vistazul
+Sevilla,41701754C,I.E.S. Mariana de Pineda
+Sevilla,41701811C,I.E.S. Olivar de la Motilla
+Sevilla,41701857C,I.E.S. Jesús del Gran Poder
+Sevilla,41701869C,I.E.S. Ibn Jaldún
+Sevilla,41702011C,I.E.S. Alvareda
+Sevilla,41702023C,I.E.S. Cantely
+Sevilla,41000594C,I.E.S. Nicolás Copérnico
+Sevilla,41001938C,I.E.S. San Fulgencio
+Sevilla,41001941C,I.E.S. Luis Vélez de Guevara
+Sevilla,41701845C,I.E.S. El Coronil
+Sevilla,41702059C,I.E.S. Laguna de Tollón
+Sevilla,41701936C,I.E.S. Torre del Águila
+Sevilla,41701948C,I.E.S. Aníbal González
+Sevilla,41701985C,I.E.S. Maestro Don José Jurado Espada
+Sevilla,41701079C,I.E.S. Flavio Irnitano
+Sevilla,41700555C,I.E.S. Blas Infante
+Sevilla,41702138C,I.E.S. Profesor Juan Bautista
+Sevilla,41008398C,I.E.S. Lauretum
+Sevilla,41002013C,I.E.S. Ostippo
+Sevilla,41008970C,I.E.S. Aguilar y Cano
+Sevilla,41701250C,I.E.S. Alarifes Ruiz Florindo
+Sevilla,41701870C,I.E.S. Antonio Álvarez López
+Sevilla,41701021C,I.E.S. Gerena
+Sevilla,41701602C,I.E.S. Silena
+Sevilla,41701286C,I.E.S. El Majuelo
+Sevilla,41701584C,I.E.S. Sierra del Agua
+Sevilla,41701262C,I.E.S. El Molinillo (CdA)
+Sevilla,41701031C,I.E.S. Herrera
+Sevilla,41701134C,I.E.S. Lago Ligur
+Sevilla,41700968C,I.E.S. Torre de los Guzmanes
+Sevilla,41702311C,I.E.S. Matilde Casanova
+Sevilla,41000053C,I.E.S. La Campana
+Sevilla,41702114C,I.E.S. Pablo de Olavide
+Sevilla,41700907C,I.E.S. Castillo de Luna
+Sevilla,41701365C,I.E.S. Federico García Lorca
+Sevilla,41701973C,I.E.S. Celti
+Sevilla,41700348C,I.E.S. Alcaria
+Sevilla,41022978C,C.P.I.F.P. NUEVO
+Sevilla,41701377C,I.E.S. Antonio de Ulloa
+Sevilla,41701389C,I.E.S. La Roda
+Sevilla,41701882C,I.E.S. Tierra de Lagunas
+Sevilla,41700889C,I.E.S. Delgado Brackenbury
+Sevilla,41702254C,I.E.S. Ciudad de las Cabezas
+Sevilla,41002359C,I.E.S. Virgen del Castillo
+Sevilla,41009822C,I.E.S. Bajo Guadalquivir
+Sevilla,41702278C,I.E.S. El Fontanal
+Sevilla,41002441C,I.E.S. Guadalquivir
+Sevilla,41002451C,I.E.S. Axati
+Sevilla,41701894C,I.E.S. Al-Lawra
+Sevilla,41700750C,I.E.S. Maestro Francisco Gallardo
+Sevilla,41701912C,I.E.S. Francisco Rivero
+Sevilla,41003182C,I.E.S. Al-Mudeyne
+Sevilla,41003200C,I.E.S. Joaquín Romero Murube
+Sevilla,41008994C,I.E.S. Maestro Diego Llorente
+Sevilla,41702151C,I.E.S. Marismas
+Sevilla,41009469C,I.E.S. Los Alcores
+Sevilla,41701341C,I.E.S. María Inmaculada
+Sevilla,41011713C,I.E.S. Hipatia
+Sevilla,41700099C,I.E.S. Juan de Mairena
+Sevilla,41700351C,I.E.S. Atenea
+Sevilla,41701626C,I.E.S. Cavaleri
+Sevilla,41002694C,I.E.S. Isidro de Arcenegui y Carmona
+Sevilla,41008507C,I.E.S. López de Arenas
+Sevilla,41701900C,I.E.S. José Saramago
+Sevilla,41701043C,I.E.S. Castillo de Cote
+Sevilla,41002955C,I.E.S. Fray Bartolomé de las Casas
+Sevilla,41701055C,I.E.S. Fuente Nueva
+Sevilla,41701924C,I.E.S. Profesor Juan Antonio Carrillo Salcedo
+Sevilla,41701161C,I.E.S. Heliche
+Sevilla,41003066C,I.E.S. Francisco Rodríguez Marín
+Sevilla,41009123C,I.E.S. Sierra Sur
+Sevilla,41017673C,I.E.S. Palomares
+Sevilla,41701560C,I.E.S. San Albino
+Sevilla,41701729C,I.E.S. Carlos Cano
+Sevilla,41701951C,I.E.S. Virgen de Villadiego
+Sevilla,41701298C,I.E.S. Torre del Rey
+Sevilla,41701651C,I.E.S. Virgen de la Soledad
+Sevilla,41701961C,I.E.S. Maestro José Zamudio
+Sevilla,41701742C,I.E.S. Pésula
+Provincia,Código Centro,Nombre Centro
+Sevilla,41003741C,I.E.S. Miguel de Mañara
+Sevilla,41003765C,I.E.S. San José de la Rinconada
+Sevilla,41701766C,I.E.S. Carmen Laffón
+Sevilla,41009019C,I.E.S. Mateo Alemán
+Sevilla,41700828C,I.E.S. Severo Ochoa
+Sevilla,41701778C,I.E.S. Lucus Solis
+Sevilla,41701419C,I.E.S. Itálica
+Sevilla,41000089C,I.E.S. Miguel Servet
+Sevilla,41006894C,I.E.S. San Isidoro
+Sevilla,41006900C,I.E.S. Velázquez
+Sevilla,41006912C,I.E.S. Gustavo Adolfo Bécquer
+Sevilla,41006924C,I.E.S. Fernando de Herrera
+Sevilla,41006936C,I.E.S. Murillo
+Sevilla,41006948C,I.E.S. Martínez Montañés
+Sevilla,41006951C,I.E.S. Luca de Tena
+Sevilla,41006997C,I.E.S. Politécnico
+Sevilla,41007230C,I.E.S. Carlos Haya
+Sevilla,41007266C,E.A.S.D. Sevilla
+Sevilla,41007357C,I.E.S. Vicente Aleixandre
+Sevilla,41007451C,I.E.S. Pino Montano
+Sevilla,41008519C,I.E.S. Bellavista
+Sevilla,41008532C,I.E.S. San Pablo
+Sevilla,41009044C,I.E.S. Ramón Carande
+Sevilla,41009056C,I.E.S. Polígono Sur
+Sevilla,41009068C,I.E.S. Antonio Domínguez Ortiz
+Sevilla,41009071C,I.E.S. Antonio Machado
+Sevilla,41009135C,I.E.S. Heliópolis
+Sevilla,41009858C,I.E.S. Albert Einstein
+Sevilla,41009871C,I.E.S. Beatriz de Suabia
+Sevilla,41009883C,I.E.S. Torreblanca
+Sevilla,41010541C,I.E.S. Joaquín Turina
+Sevilla,41010757C,I.E.S. San Jerónimo
+Sevilla,41010769C,I.E.S. Nervión
+Sevilla,41010824C,I.E.S. Margarita Salas
+Sevilla,41011041C,I.E.S. Federico Mayor Zaragoza
+Sevilla,41011117C,I.E.S. Miguel de Cervantes
+Sevilla,41011129C,I.E.S. Pablo Picasso
+Sevilla,41014003C,I.E.S. Chaves Nogales
+Sevilla,41700014C,I.E.S. Julio Verne
+Sevilla,41700038C,I.E.S. Macarena
+Sevilla,41700041C,I.E.S. Triana
+Sevilla,41700117C,I.E.S. Llanes
+Sevilla,41700178C,I.E.S. Punta del Verde
+Sevilla,41700373C,I.E.S. Santa Aurelia
+Sevilla,41700385C,I.E.S. V Centenario
+Sevilla,41700403C,I.E.S. Isbilya
+Sevilla,41700415C,I.E.S. Ciudad Jardín
+Sevilla,41700427C,I.E.S. Azahar
+Sevilla,41700841C,C.P.I.F.P. Los Viveros
+Sevilla,41701109C,I.E.S. Ramón del Valle Inclán
+Sevilla,41701675C,I.E.S. Joaquín Romero Murube
+Sevilla,41701687C,I.E.S. Félix Rodríguez de la Fuente
+Sevilla,41702047C,I.E.S. María Moliner
+Sevilla,41702084C,I.P.E.P. Sevilla
+Sevilla,41702096C,I.E.S. Leonardo da Vinci
+Sevilla,41700919C,I.E.S. Ramón y Cajal
+Sevilla,41012225C,I.E.S. Ítaca
+Sevilla,41701183C,I.E.S. Néstor Almendros
+Sevilla,41701663C,I.E.S. Pino Rueda
+Sevilla,41007898C,I.E.S. Ruiz Gijón
+Sevilla,41007904C,I.E.S. Virgen de Consolación
+Sevilla,41700154C,I.E.S. Ponce de León
+Sevilla,41701997C,I.E.S. José María Infantes
+Sevilla,41701614C,I.E.S. Las Encinas
+Sevilla,41701456C,I.E.S. Nuestra Señora del Rocío
+Sevilla,41701638C,I.E.S. Al-Iscar
+Sevilla,41702001C,I.E.S. Munigua
+Sevilla,41700920C,I.E.S. Pepe Ruiz Vela

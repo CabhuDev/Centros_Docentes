@@ -1,0 +1,115 @@
+/* Estilo general de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #4a90e2;
+}
+
+/* Estilo de la tabla */
+#centros-table {
+    width: 100%;
+    max-width: 1200px;
+    margin: 20px auto;
+    border-collapse: collapse;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+#centros-table thead {
+    background-color: #4a90e2;
+    color: #ffffff;
+}
+
+#centros-table th, #centros-table td {
+    padding: 12px;
+    text-align: left;
+    border: 1px solid #dddddd;
+}
+
+#centros-table th {
+    font-weight: bold;
+}
+
+#centros-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+#centros-table tr:hover {
+    background-color: #e1f5fe;
+    cursor: pointer;
+}
+
+/* Estilo para la cabecera */
+th {
+    background-color: #4a90e2;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+/* Estilo responsivo */
+@media (max-width: 768px) {
+    #centros-table {
+        font-size: 14px;
+    }
+
+    th, td {
+        padding: 8px;
+    }
+}
+
+/* Añadir un estilo agradable para el borde */
+#centros-table {
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+/* Estilo adicional para el título */
+h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+
+.filters-header {
+    display: flex;
+    gap: 20px;
+    padding: 15px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.filter-group label {
+    font-weight: bold;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.header-filter {
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    min-width: 150px;
+}
+
+.header-filter:hover {
+    border-color: #999;
+}
+
+.header-filter:focus {
+    outline: none;
+    border-color: #0066cc;
+    box-shadow: 0 0 3px rgba(0,102,204,0.2);
+}
