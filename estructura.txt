@@ -49,3 +49,5 @@
 ├── LICENSE                           # Licencia del proyecto
 ├── README.md                         # Documentación sobre cómo configurar y usar la aplicación
 └── requirements.txt                  # Lista de dependencias de Python necesarias para ejecutar el proyecto
+
+

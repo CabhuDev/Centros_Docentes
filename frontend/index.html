@@ -1,34 +1,94 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Listado</title>
+    <title>Pruebas de Filtros y Búsquedas</title>
     <link rel="stylesheet" href="css/style.css">
+
 </head>
 <body>
-    <h1>Ordena Centros Docentes de Andalucía</h1>
+    <h1>Centros Educativos</h1>
+    
+    <form id="form-filtros">
+        <label for="direccionOrigen">Tu dirección:</label>
+        <input type="text" id="direccionOrigen" placeholder="Dirección completa" required>
+        
+        <div class="form-divider"></div>
+        
+        <label for="codigo">Código de Centro:</label>
+        <input type="text" id="codigo" placeholder="Ejemplo: 04005201">
 
-    <div id="image-container">
-        <button id="load-image-btn">Cargar Imagen</button>
-        <img id="imagen-risa" alt="Imagen Risa" style="display:none;">
+        <label for="tipoCentro">Tipo de Centro:</label>
+        <select id="tipoCentro">
+            <option value="">-- Seleccionar --</option>
+        </select>
+        
+
+        <label for="nombreCentro">Nombre del Centro:</label>
+        <input type="text" id="nombreCentro" placeholder="Ejemplo: Ángel de Haro">
+
+        <label for="localidad">Localidad:</label>
+        <input type="text" id="localidad" placeholder="Ejemplo: Carboneras">
+
+        <label for="provincia">Provincia:</label>
+        <input type="text" id="provincia" placeholder="Ejemplo: Granada">
+        
+        <label for="etapa">Etapa Educativa:</label>
+        <select id="etapa">
+            <option value="">-- Seleccionar --</option>
+            <option value="ESO">ESO</option>
+            <option value="Bachillerato">Bachillerato</option>
+            <option value="Primaria">Primaria</option>
+        </select>
+        
+        <button type="submit">Buscar</button>
+    </form>
+
+    <!-- Mensaje de carga -->
+    <div id="loading-indicator" style="display: none;">
+        <p>Cargando resultados, por favor espera...</p>
+        <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none">
+            <g class="loading-icon">
+                <path stroke="#0A0A30" stroke-linecap="round" stroke-width="1.5" d="M12.035 8v8M16 12H8" />
+                <circle cx="12" cy="12" r="1.635" fill="#265BFF" />
+            </g>
+        </svg>
+        
     </div>
     
-    <table id="centros-table" border="1">
-        <thead>                 
+
+    <table border="1">
         <thead>
-        <tbody>
-            <!-- Los datos del CSV se agregarán aquí dinámicamente -->
+            <tr>
+                <th>Código</th>
+                <th>Centro</th>
+                <th>Dirección</th>
+                <th>Código Postal</th>
+                <th >Localidad</th>
+                <th >Provincia</th>
+                <th>ESO</th>
+                <th>time</th>
+            </tr>
+        </thead>
+        <tbody id="tabla-centros">
+            <tr>
+                <td colspan="8">Introduce filtros y presiona "Buscar"</td>
+            </tr>
         </tbody>
     </table>
+    
+    <!-- Paginación -->
+    <div id="pagination-controls">
+        <button id="prev-page" disabled>Anterior</button>
+        <span id="current-page">1</span>
+        <button id="next-page">Siguiente</button>
+    </div>
 
-    <!-- Incluye todos los scripts de manera ordenada -->
-    <script src="js/config.js"></script>
-    <script src="js/apiService.js"></script>
-    <script src="js/uiService.js"></script>
-    <script src="js/filterService.js"></script>
-    <script src="js/main.js"></script>
 
+    <!-- Enlace con archivo .js -->
+    <script type="module" src="js/main.js"></script>
+    
 
 
 </body>

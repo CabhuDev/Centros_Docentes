@@ -15,22 +15,23 @@ La aplicación está compuesta por un backend desarrollado en **FastAPI** que ge
 ## Estructura del Proyecto
 
 ```
-/CentrosJuntaAndalucia
+/CentrosJuntaAndalucia/v3.0
 │
 ├── backend/                          # Contiene la lógica y servicios del lado del servidor
 │   ├── app/
 │   │   ├── __init__.py               # Inicialización del módulo app (configuración general)
-│   │   ├── main.py                   # Punto de entrada para iniciar la aplicación FastAPI/Flask
+│   │   ├── main.py                   # Punto de entrada para iniciar la aplicación FastAPI/
 │   │   ├── models/                   # Define los modelos de datos (esquemas)
 │   │   │   ├── centro.py             # Clase CentroEducativo y otros modelos necesarios
 │   │   │   └── __init__.py           
 │   │   ├── routers/                  # Define las rutas (endpoints) de la API
-│   │   │   ├── csv_routes.py         # Rutas para manejar CRUD de datos CSV
-│   │   │   ├── google_routes.py      # Rutas para manejar peticiones de tiempos de viaje de la API de Google
+│   │   │   ├── api_routes.py         # Rutas para manejar CRUD de datos CSV
 │   │   │   └── __init__.py
 │   │   ├── services/                 # Servicios y lógica de negocio
 │   │   │   ├── csv_service.py        # Funciones de gestión de los archivos CSV (leer, añadir, modificar, eliminar)
-│   │   │   ├── google_service.py     # Funciones para conectarse con la API de Google
+│   │   │   ├── googleCoonect.py      # Funciones para conectarse con la API de Google
+│   │   │   ├── csvToMongo.py         # Lógica para pasar el cvs de datos a MongoDB
+│   │   │   ├── consultasMongo.py     # Lógica para realizar consultas a MongoDB
 │   │   │   └── __init__.py
 │   │   ├── utils/                    # Utilidades generales que pueden ser compartidas
 │   │   │   ├── helpers.py            # Funciones auxiliares que se usan en múltiples partes del proyecto
@@ -52,9 +53,9 @@ La aplicación está compuesta por un backend desarrollado en **FastAPI** que ge
 │   │   └── style.css                 # Estilo de la aplicación web
 │   ├── js/                           # Archivos JavaScript para interacción del usuario
 │   │   ├── main.js                   # Archivo principal que importa todas las funciones y llama a inicializarTabla()
-│   │   ├── config.js                 # Contendrá configuraciones globales y constantes
-│   │   ├── filterService.js          # Contendrá toda la lógica relacionada con el filtrado de los datos
-│   │   ├── uiService.js              # Contendrá todas las funciones que manejan la manipulación del DOM y la visualización
+│   │   NoRealizado├── config.js                 # Contendrá configuraciones globales y constantes
+│   │   NoRealizado├── filterService.js          # Contendrá toda la lógica relacionada con el filtrado de los datos
+│   │   NoRealizado├── uiService.js              # Contendrá todas las funciones que manejan la manipulación del DOM y la visualización
 │   │   └── apiService.js             # Encargado de la interacción con la API
 │   └── assets/                       # Recursos estáticos adicionales
 │       ├── images/                   # Imágenes utilizadas en la interfaz
