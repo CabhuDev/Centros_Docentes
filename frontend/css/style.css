@@ -115,8 +115,10 @@ table tbody tr:hover {
 
 #loading-indicator {
     font-family: Arial, sans-serif;
-    color: #0A0A30;
+    color: var(--texto-secundario);
     font-size: 14px;
+    font-weight: bold;
+    text-align: center;
 }
 
 #loading-indicator svg {
