@@ -47,8 +47,7 @@ async def listar_centros(
                 centro["duracion"] = distancia.get("duracion", "No disponible")
 
             # Ordenar los centros por distancia
-            centros.sort(key=lambda x: x.get("distancia", float("inf")))
-        
+            centros.sort(key=lambda x: parse_distancia(x.get("distancia", "inf")))        
         # Paginación
         totalCentros = len(centros)
         startIndex = (page - 1) * rowsPerPage
@@ -65,6 +64,18 @@ async def listar_centros(
     except Exception as e:
         # Si ocurre una excepción, devuelve un mensaje de error y un código de estado 500
         return {"error": f"Error al obtener los centros: {str(e)}"}, 500
+
+def parse_distancia(distancia_str):
+    """
+    Convierte una cadena de distancia a float, manejando comas y 'km'
+    """
+    try:
+        # Elimina 'km' y espacios, reemplaza coma por punto
+        valor = distancia_str.replace('km', '').strip().replace(',', '.')
+        return float(valor)
+    except (ValueError, AttributeError):
+        return float('inf')  # Valor infinito para elementos sin distancia
+
 
 
 @router.get("/centros/tipos")
