@@ -71,18 +71,27 @@ table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
 }
 
 table th,
 table td {
-    padding: 10px;
-    border: 1px solid var(--secundario);
+    padding: 15px;
+    border-bottom: 1px solid var(--secundario);
     text-align: left;
 }
 
 table thead {
     background: var(--primario);
     color: var(--fondo);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+table tbody tr {
+    transition: background 0.3s ease, color 0.3s ease;
 }
 
 table tbody tr:nth-child(even) {
