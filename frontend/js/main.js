@@ -34,19 +34,28 @@ async function handleFormSubmit(event) {
 
 // Maneja el click en el botón "anterior": decrementa la página si es posible
 async function handlePrevPage() {
-    if (currentPage > 1) {
-        currentPage--;
-        await cargarCentros(currentPage);
-        actualizarPaginacion();
+    try {
+        if (currentPage > 1) {
+            currentPage--;
+            await cargarCentros(currentPage);
+            actualizarPaginacion();
+        }
+    } catch (error) {
+        console.error('Error al navegar a la página anterior:', error);
     }
 }
 
 // Maneja el click en el botón "siguiente": incrementa la página
 async function handleNextPage() {
-    currentPage++;
-    await cargarCentros(currentPage);
-    actualizarPaginacion();
+    try {
+        currentPage++;
+        await cargarCentros(currentPage);
+        actualizarPaginacion();
+    } catch (error) {
+        console.error('Error al navegar a la página siguiente:', error);
+    }
 }
+
 
 // Realiza la petición HTTP a la API para obtener los centros
 async function fetchCentros(params) {

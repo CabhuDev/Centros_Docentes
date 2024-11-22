@@ -1,6 +1,7 @@
 from pymongo import MongoClient
 import os
 from dotenv import load_dotenv
+from backend.app.utils.regex import *
 
 # Cargar las variables de entorno
 load_dotenv()
@@ -38,15 +39,15 @@ def obtener_centros_filtrados(localidad=None,
         
         # Agregar filtros a la consulta si se proporcionan
         if localidad:
-            query["D_LOCALIDAD"] = localidad
+            query["D_LOCALIDAD"] = {"$regex": patron_coincidencia_exacta(localidad)}
         if etapa:
             query[etapa] = "Sí"
         if provincia:
-            query["D_PROVINCIA"] = provincia
+            query["D_PROVINCIA"] = {"$regex": patron_coincidencia_exacta(provincia)}
         if codigo:
-            query["codigo"] = codigo
+            query["codigo"] = {"$regex": patron_coincidencia_exacta(codigo)}
         if nombreCentro:
-            query["D_ESPECIFICA"] = nombreCentro
+            query["D_ESPECIFICA"] = {"$regex": patron_coincidencia_parcial(nombreCentro)}
         if tipoCentro:
             query["D_DENOMINA"] = tipoCentro
 
