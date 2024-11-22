@@ -18,20 +18,61 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // Inicializa los event listeners para el formulario y botones de paginación
 function initEventListeners() {
-    document.getElementById("form-filtros").addEventListener("submit", handleFormSubmit);
+    const formFiltros = document.getElementById("form-filtros");
+    const prevButton = document.getElementById('prev-page');
+    const nextButton = document.getElementById('next-page');
+    const searchButton = document.getElementById('search-button');
+
+    if (formFiltros) {
+        // Agregar múltiples event listeners para mejor soporte móvil
+        formFiltros.addEventListener("submit", handleFormSubmit);
+        formFiltros.addEventListener("touchend", handleFormSubmit);
+    }
+
+    if (searchButton) {
+        // Prevenir doble tap en móviles
+        searchButton.addEventListener('touchend', (e) => {
+            e.preventDefault();
+            handleFormSubmit(e);
+        });
+    }
+
+    if (prevButton) {
+        prevButton.addEventListener('click', handlePrevPage);
+        prevButton.addEventListener('touchend', handlePrevPage);
+    }
+
+    if (nextButton) {
+        nextButton.addEventListener('click', handleNextPage);
+        nextButton.addEventListener('touchend', handleNextPage);
+    }document.getElementById("form-filtros").addEventListener("submit", handleFormSubmit);
     document.getElementById('prev-page').addEventListener('click', handlePrevPage);
     document.getElementById('next-page').addEventListener('click', handleNextPage);
 }
-
-
 
 // Maneja el envío del formulario: previene el comportamiento por defecto,
 // resetea la página a 1 y carga los centros
 async function handleFormSubmit(event) {
     event.preventDefault();
-    currentPage = 1;
-    await cargarCentros(currentPage);
-    actualizarPaginacion();
+    
+    // Prevenir múltiples envíos
+    const submitButton = document.getElementById('search-button');
+    if (submitButton) {
+        submitButton.disabled = true;
+    }
+
+    try {
+        currentPage = 1;
+        await cargarCentros(currentPage);
+        actualizarPaginacion();
+    } catch (error) {
+        console.error('Error al enviar formulario:', error);
+    } finally {
+        // Reactivar el botón después de procesar
+        if (submitButton) {
+            submitButton.disabled = false;
+        }
+    }
 }
 
 // Maneja el click en el botón "anterior": decrementa la página si es posible

@@ -76,7 +76,6 @@ async def listar_tipos_de_centro():
     return {"tipos": tipos}
 
 
-
     
 
 
