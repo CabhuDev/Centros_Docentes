@@ -22,10 +22,7 @@ app.add_middleware(
 # Incluir las rutas del enrutador
 app.include_router(api_routes.router, prefix="/api", tags=["Centros"])
 
-# Ruta raíz
-@app.get("/")
-async def root():
-    return {"mensaje": "Bienvenido a la API de Centros Educativos"}
+
 
 # Monta la carpeta 'frontend' para servir los archivos estáticos
-app.mount("/CentrosEducativos", StaticFiles(directory="frontend", html=True), name="frontend")
+app.mount("/", StaticFiles(directory="frontend", html=True), name="frontend")

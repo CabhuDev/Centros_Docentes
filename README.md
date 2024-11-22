@@ -53,7 +53,7 @@ La aplicación está compuesta por un backend desarrollado en **FastAPI** que ge
 │   │   └── style.css                 # Estilo de la aplicación web
 │   ├── js/                           # Archivos JavaScript para interacción del usuario
 │   │   ├── main.js                   # Archivo principal que importa todas las funciones y llama a inicializarTabla()
-│   │   NoRealizado├── config.js                 # Contendrá configuraciones globales y constantes
+│   │   config.js                 # Contendrá configuraciones globales y constantes
 │   │   NoRealizado├── filterService.js          # Contendrá toda la lógica relacionada con el filtrado de los datos
 │   │   NoRealizado├── uiService.js              # Contendrá todas las funciones que manejan la manipulación del DOM y la visualización
 │   │   └── apiService.js             # Encargado de la interacción con la API
