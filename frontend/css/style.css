@@ -26,6 +26,10 @@ h1 {
 }
 
 /* Formulario */
+
+form {
+    margin-bottom: 20px;
+}
 #form-filtros {
     background: var(--primario);
     color: var(--fondo);
@@ -110,6 +114,34 @@ table tbody tr:hover {
     margin: 10px 0;
 }
 
+.search-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 10px;
+    -webkit-appearance: none; /* Fix para iOS */
+    appearance: none;
+    touch-action: manipulation; /* Mejora táctil */
+}
+
+.search-button:hover,
+.search-button:focus {
+    background-color: #45a049;
+}
+
+.search-button:active {
+    background-color: #3d8b40;
+}
+
 #paginacion button {
     margin: 5px;
     padding: 10px 15px;
@@ -175,50 +207,10 @@ table tbody tr:hover {
         width: 36px;
         height: 36px;
     }
-}
 
-
-
-
-
-
-/* Añadir estos estilos en tu archivo CSS */
-.search-button {
-    width: 100%;
-    padding: 12px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    border-radius: 4px;
-    font-size: 16px;
-    cursor: pointer;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
-    margin-top: 10px;
-    -webkit-appearance: none; /* Fix para iOS */
-    appearance: none;
-    touch-action: manipulation; /* Mejora táctil */
-}
-
-/* Estilos específicos para móviles */
-@media (max-width: 768px) {
     .search-button {
         min-height: 44px; /* Altura mínima para táctil */
         font-size: 18px; /* Texto más grande para móvil */
     }
-    
-    form {
-        margin-bottom: 20px;
-    }
 }
 
-.search-button:hover,
-.search-button:focus {
-    background-color: #45a049;
-}
-
-.search-button:active {
-    background-color: #3d8b40;
-}
