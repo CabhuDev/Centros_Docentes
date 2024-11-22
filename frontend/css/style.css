@@ -182,3 +182,43 @@ table tbody tr:hover {
 
 
 
+/* Añadir estos estilos en tu archivo CSS */
+.search-button {
+    width: 100%;
+    padding: 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 16px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    margin-top: 10px;
+    -webkit-appearance: none; /* Fix para iOS */
+    appearance: none;
+    touch-action: manipulation; /* Mejora táctil */
+}
+
+/* Estilos específicos para móviles */
+@media (max-width: 768px) {
+    .search-button {
+        min-height: 44px; /* Altura mínima para táctil */
+        font-size: 18px; /* Texto más grande para móvil */
+    }
+    
+    form {
+        margin-bottom: 20px;
+    }
+}
+
+.search-button:hover,
+.search-button:focus {
+    background-color: #45a049;
+}
+
+.search-button:active {
+    background-color: #3d8b40;
+}

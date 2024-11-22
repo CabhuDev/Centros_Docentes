@@ -23,6 +23,8 @@ function initEventListeners() {
     document.getElementById('next-page').addEventListener('click', handleNextPage);
 }
 
+
+
 // Maneja el envío del formulario: previene el comportamiento por defecto,
 // resetea la página a 1 y carga los centros
 async function handleFormSubmit(event) {
