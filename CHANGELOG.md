@@ -9,7 +9,23 @@ Las fechas son `AAAA-MM-DD`. Tipos de cambio: **Añadido**, **Cambiado**,
 
 ## [Sin publicar]
 
+## [3.0.0] - 2026-06-25
+
+Reescritura completa del proyecto a un stack moderno (FastAPI + React/Vite +
+Docker) que **sustituye por completo** la versión anterior del repositorio
+(frontend en JavaScript vanilla, curso 2024). El árbol de ficheros se reemplaza
+íntegramente; la historia previa se conserva enlazada en el repositorio.
+
 ### Añadido
+- Backend **FastAPI**: filtros (provincia, municipio, titularidad,
+  etapa/enseñanza concreta), orden por cercanía (haversine + Google Distance
+  Matrix con caché), `GET /api/centros`, `/meta`, `/geocode`, `/distancias`,
+  `/export` (CSV con todos los campos de origen) y `/lookup` de códigos.
+- Frontend **React + Vite** con sistema de diseño propio (estilo «Syllabus»,
+  documentado en `frontend/DESIGN.md`): mapa Leaflet, preferencias marcables (★)
+  reordenables y exportables, y pestaña «Buscar / Listado» (incluye el PDF del
+  concurso de traslados).
+- Despliegue con **Docker Compose** (dev / prod / tests) y suite de tests pytest.
 - **Capa de opiniones de profesorado (`info_extra`)** por centro.
   - Nuevo `scripts/build_info_extra.py`: cruza el Excel manual de opiniones
     (`datos/Centros Andalucia drive.xlsx`) con los centros (por código →
@@ -31,16 +47,9 @@ Las fechas son `AAAA-MM-DD`. Tipos de cambio: **Añadido**, **Cambiado**,
   corruptos como carácter de reemplazo U+FFFD (`Almer�a`, `Joaqu�n`). El CSV ya
   viene así upstream; solo se corrige re-descargando el directorio de la Junta.
 
-## [0.1.0] - 2024
+## Legacy (2024)
 
-### Añadido
-- Buscador de centros docentes de Andalucía (curso 2024/2025, 7.106 centros)
-  ordenados por **distancia y tiempo reales** según modo de transporte (coche,
-  transporte público, bici, a pie) con Google Maps.
-- Filtros por provincia, municipio, titularidad y etapa/enseñanza concreta.
-- Preferencias marcables (★), reordenables, exportables a CSV con todos los
-  campos del directorio de origen.
-- Pestaña «Buscar / Listado»: búsqueda por nombre/código y resolución de listados
-  de códigos (`.txt`, `.csv`, `.xlsx`, `.pdf`, incluido el PDF del concurso de
-  traslados).
-- Backend FastAPI + frontend React/Vite, despliegue con Docker Compose.
+Versión original del repositorio (no etiquetada): frontend en JavaScript vanilla
+(`frontend/js`, `frontend/css`) y un primer backend. Reemplazada por completo en
+la 3.0.0. Su código permanece accesible en la historia del repo y en la rama
+`v3.0`.
