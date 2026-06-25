@@ -1,0 +1,10 @@
+# Ejecuta la bateria de tests (pytest) dentro de un contenedor.
+# Google va mockeado, asi que NO necesita clave ni red.
+#
+#   docker compose -f docker-compose.test.yml run --rm tests
+services:
+  tests:
+    build:
+      context: ./backend
+      target: test
+    command: python -m pytest

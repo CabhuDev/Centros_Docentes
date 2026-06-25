@@ -1,0 +1,90 @@
+Nombre del campo;Tipo de datos;Significado;Especificaciones Técnicas
+curso;Texto corto;curso académico;2024/2025
+codigo;Texto corto;código del centro;
+D_DENOMINA;Texto corto;Tipo de centro;
+D_ESPECIFICA;Texto corto;Nombre del centro;
+D_TIPO;Texto corto;Titularidad;Valores = Público o Privado
+D_DOMICILIO;Texto corto;Domicilio;
+D_LOCALIDAD;Texto corto;Localidad;
+cod_municipio;Texto corto;Codigo del Municipio;Clasificación INE
+D_MUNICIPIO;Texto corto;Municipio;
+D_PROVINCIA;Texto corto;Provincia;
+C_POSTAL;Texto corto;CP;
+N_TELEFONO;Texto corto;Teléfono;
+Correo_e;Texto corto;Correo electrónico;
+N_LATITUD;Texto corto;Latitud;
+N_LONGITUD;Texto corto;Longitud;
+N_COUTMX;Número;COUTMX;
+N_COUTMY;Número;COUTMY;
+Regimen_general;Texto corto;Régimen general;
+Regimen_adultos;Texto corto;Régimen de Personas Adultas;
+Regimen_especial;Texto corto;Régimen especial;
+pub_adh_inf1;Número;Público adherido Ed. Infantil de 1º ciclo;Cuando se habla de ahderidos significa que son centros adheridos al Programa de Ayuda a las Familias para el fomento de la escolarización de educación Infantil
+pub_noadh_inf1;Número;Público  no adherido Ed. Infantil de 1º ciclo;
+priv_adh_inf1;Número;Privado adherido Ed. Infantil de 1º ciclo;Cuando se habla de ahderidos significa que son centros adheridos al Programa de Ayuda a las Familias para el fomento de la escolarización de educación Infantil
+priv_noadh_inf1;Número;Privado Ed. Infantil de 1º ciclo;
+pub_inf2;Número;Público Ed. Infantil de 2º ciclo;
+priv_c_inf2;Número;Privado concertado Ed. Infantil de 2º ciclo;
+priv_noc_inf2;Número;Privado no concertado Ed. Infantil de 2º ciclo;
+pub_pri;Número;Público Ed. Primaria;
+priv_c_pri;Número;Privado concertado Ed. Primaria;
+priv_noc_pri;Número;Privado no concertado Ed. Primaria;
+pub_eso;Número;Público Ed. Secundaria Obligatoria;
+priv_c_eso;Número;Privado concertado Ed. Secundaria Obligatoria;
+priv_noc_eso;Número;Privado no concertado Ed. Secundaria Obligatoria;
+pub_bach_ord;Número;Público Bachillerato ordinario;
+priv_c_bach_ord;Número;Privado concertado Bachillerato ordinario;
+priv_noc_bach_ord;Número;Privado no concertado Bachillerato ordinario;
+pub_bach_adul;Número;Público Bachillerato para Personas Adultas;
+pub_bach_semi_dist;Número;Público Bachillerato Semipresencial/Distacia;
+pub_cfgbas;Número;Público Ciclos Formativos de Grado Básico ;Incluye el alumnado de los CFGB dirigidos a personas con necesidades educativas especiales y los CFGB dirigidos a personas con especiales dificultades formativas o de inserción laboral
+priv_c_cfgbas;Número;Privado concertado Ciclos Formativos de Grado Básico ;
+priv_noc_cfgbas;Número;Privado no concertado Ciclos Formativos de Grado Básico ;
+pub_cfpgm_ord;Número;Público Ciclos Formativos de Grado Medio ordinario;
+priv_c_cfpgm_ord;Número;Privado concertado Ciclos Formativos de Grado Medio ordinario;
+priv_noc_cfpgm_ord;Número;Privado no concertado Ciclos Formativos de Grado Medio ordinario;
+pub_cfpgm_adul;Número;Público Ciclos Formativos de Grado Medio para Personas Adultas;
+pub_cfpgm_semi_dist;Número;Público Ciclos Formativos de Grado Medio Semipresencial/Distancia;
+priv_noc_cfpgm_semi_dist;Número;Privado no concertado Ciclos Formativos de Grado Medio Semipresencial/Distancia;
+pub_cfpgs_ord;Número;Público Ciclos Formativos de Grado Superior ordinario;
+priv_c_cfpgs_ord;Número;Privado concertado Ciclos Formativos de Grado Superior ordinario;
+priv_noc_cfpgs_ord;Número;Privado no concertado Ciclos Formativos de Grado Superior ordinario;
+pub_cfpgs_adul;Número;Público Ciclos Formativos de Grado Superior para Personas Adultas;
+priv_noc_cfpgs_adul;Número;Privado no concertado Ciclos Formativos de Grado Superior para Personas Adultas;
+pub_cfpgs_semi_dist;Número;Público Ciclos Formativos de Grado Superior Semipresencial/Distancia;
+priv_noc_cfpgs_semi_dist;Número;Privado no concertado Ciclos Formativos de Grado Superior Semipresencial/Distancia;
+pub_ce_gm;Número;Público Cursos de Especialización de Formación Profesional Grado Medio;
+pri_noc_ce_gm;Número;Privado no concertado Cursos de Especialización de Formación Profesional Grado Medio;
+pub_ce_gs;Número;Público Cursos de Especialización de Formación Profesional Grado Superior;
+pri_noc_ce_gs;Número;Privado no concertado Cursos de Especialización de Formación Profesional Grado Superior;
+pub_ee;Número;Público Ed. Especial;
+priv_c_ee;Número;Privado concertado Ed. Especial;
+priv_noc_ee;Número;Privado no concertado Ed. Especial;
+pub_ccff_gm_apd;Número;Público Ciclos Formativos de Grado Medio de Artes Plásticas y Diseño;
+priv_ccff_gm_apd;Número;Privado Ciclos Formativos de Grado Medio de Artes Plásticas y Diseño;
+pub_ccff_gs_apd;Número;Público Ciclos Formativos de Grado Superior de Artes Plásticas y Diseño;
+pub_ccff_gs_apd;Número;Privado Ciclos Formativos de Grado Superior de Artes Plásticas y Diseño;
+pub_ESCR;Número;Público Enseñanzas Superiores de Conservación y Restauración de Bienes Culturales;
+priv_ESCR;Número;Privado Enseñanzas Superiores deConservación y Restauración de Bienes Culturales;
+pub_ESD;Número;Público Enseñanzas Superiores de Diseño;
+priv_ESD;Número;Privado Enseñanzas Superiores de Diseño;
+priv_Master_EA;Número;Privado Máster de Enseñanzas Artísticas;
+pub_Dra;Número;Público Enseñanzas de Arte Dramático;
+priv_Dra;Número;Privado Enseñanzas de Arte Dramático;
+pub_Ens_Mus;Número;Público Enseñanzas de Música;
+priv_Ens_Mus;Número;Privado Enseñanzas de Música;
+pub_Ens_Dan;Número;Público Enseñanzas de Danza;
+priv_Ens_Dan;Número;Privado Enseñanzas de Danza;
+pub_Ens_no_reg_mus;Número;Público Enseñanzas  no regladas de Música;
+priv_Ens_no_reg_mus;Número;Privado Enseñanzas no regladas de Música;
+pub_Ens_no_reg_dan;Número;Público Enseñanzas no regladas de Danza;
+priv_Ens_no_reg_dan;Número;Privado Enseñanzas no regladas de Danza;
+pub_idi;Número;Público Enseñanzas de Idiomas;
+pub_idi_libre;Número;Público Enseñanzas de Idiomas (Matrícula libre);
+pub_Ens_no_reg_idi;Número;Público Enseñanzas no regladas de Idiomas= Cursos de Actualización, Perfeccionamiento y E. en competencias de Idiomas;
+pub_Dep_gm;Número;Público Enseñanzas Deportivas de Grado Medio (sin Ens. Deportivas periodo transitorio);No incluye  las Ens. Deportivas periodo transitorio al igual eue nuestro resumen de datos
+priv_Dep_gm;Número;Privado Enseñanzas Deportivas de Grado Medio;
+pub_Dep_gs;Número;Público Enseñanzas Deportivas de Grado Superior;
+priv_Dep_gs;Número;Privado Enseñanzas Deportivas de Grado Superior;
+pub_Adul_formal;Número;Público Ed. de Adultos Formal;Incluye el alumnado de Enseñanzas iniciales para personas adultas nivel I y II, Educación secundaria para personas adultas, Cursos de formación específico para el acceso a CC.FF de Grado Medio, Preparación pruevas obteción directa título Graduado en Educación Secundaria, Preparación pruebas obtención directa título de Bachiller, Preparación pruebas acceso a Univerdidad para mayores de 25 años y Preparació pruebas acceso a CC. ÇFF de Grado medio y Grado Superior.
+pub_planes;Número;Público Ed. de Adultos NO  Formal (sin tutorias);No incluye las tutorías al igual eue nuestro resumen de datos

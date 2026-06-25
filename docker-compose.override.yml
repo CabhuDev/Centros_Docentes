@@ -1,0 +1,19 @@
+# OVERRIDE = DESARROLLO (se aplica AUTOMÁTICAMENTE en `docker compose up`).
+#
+# Añade sobre el backend base lo propio de desarrollo: monta el código,
+# recarga en caliente y publica el puerto 8000 para que el frontend (que
+# levantas aparte con `npm run dev`) pueda llamar a /api.
+#
+# El frontend NO arranca en dev: está tras el profile 'prod' en el base.
+#
+#   docker compose up -d                 # backend en modo dev (:8000)
+#   cd frontend && npm run dev           # frontend en :5173
+services:
+  backend:
+    environment:
+      CORS_ORIGINS: http://localhost:5173,http://localhost:4173
+    volumes:
+      - ./backend/app:/app/app
+    ports:
+      - "8000:8000"
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload

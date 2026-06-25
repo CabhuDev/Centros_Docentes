@@ -1,0 +1,29 @@
+# Secretos
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Node / frontend
+node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Datos crudos descargados (se regeneran con los scripts)
+datos/*.html
+
+# Datos con informacion personal SIN sanear: NO publicar en repo publico.
+# El Excel de opiniones (nombres reales) y la auditoria del saneado se quedan
+# en local; solo se versiona el CSV ya saneado (datos/info_extra_centros.csv).
+datos/*.xlsx
+datos/info_extra_revision.csv
+
+# Editores / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

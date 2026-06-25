@@ -1,0 +1,37 @@
+# BASE = PRODUCCIÓN.
+# Este fichero define el despliegue de producción (backend FastAPI + frontend
+# nginx que sirve la SPA y hace de proxy a /api).
+#
+#   Producción:   docker compose -f docker-compose.yml --profile prod up -d --build
+#   Desarrollo:   docker compose up -d         (aplica docker-compose.override.yml)
+#
+# El servicio 'frontend' está tras el profile 'prod', así en desarrollo no
+# arranca (en dev el frontend se levanta con `npm run dev`).
+services:
+  backend:
+    build:
+      context: ./backend
+      target: prod
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:8080}
+    expose:
+      - "8000"
+    networks:
+      - centros
+
+  frontend:
+    build: ./frontend
+    restart: unless-stopped
+    profiles: ["prod"]
+    depends_on:
+      - backend
+    ports:
+      - "${FRONTEND_PORT:-8080}:80"
+    networks:
+      - centros
+
+networks:
+  centros:
+    driver: bridge
