@@ -27,3 +27,7 @@ datos/info_extra_revision.csv
 .idea/
 .DS_Store
 Thumbs.db
+
+# Configuración local de Codex: no se versiona
+.agents/
+.codex/
